@@ -1,0 +1,1169 @@
+Created directory: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp
+Created directory: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp
+Available base directories: ['/home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp', '/home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp']
+Created directory: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+Created directory: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+Available analysis directories: ['/home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5', '/home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5']
+SOM Node Cluster Map (Predicted):
+[[2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 2]
+ [2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 2 2]
+ [2 2 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 2 2 2]
+ [2 2 2 2 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+ [2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2 2 2 2 2 2 2]
+ [2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3]
+ [2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 2 2 2 2 2 2 2 3 3 3 3 3]
+ [2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 2 2 2 2 2 2 3 3 3 3 3]
+ [2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 2 2 2 2 2 2 2 3 3 3 3 3]
+ [2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3]
+ [1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 2]
+ [1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+ [1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+ [1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+ [1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+ [1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+ [2 2 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+ [2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+ [2 2 2 2 2 2 2 2 2 2 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2]
+ [2 2 2 2 3 2 2 2 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 3]
+ [2 2 2 3 3 5 2 2 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2]
+ [2 2 2 5 5 5 5 2 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2]
+ [2 2 3 5 5 5 5 2 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2]
+ [2 3 3 3 5 5 2 2 2 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2]
+ [3 3 3 3 3 4 4 4 4 2 1 1 1 1 1 1 1 1 2 2 2 2 1 1 1 2 2]
+ [3 3 3 3 2 4 4 4 4 4 1 1 1 1 1 1 1 1 2 2 2 1 1 1 1 1 1]
+ [3 3 3 2 2 2 4 4 4 2 2 1 1 1 3 3 3 3 3 3 1 1 1 1 1 1 1]
+ [2 2 2 2 2 2 4 4 2 2 2 1 1 1 3 3 3 3 3 3 1 1 1 1 1 1 1]
+ [5 2 2 2 2 2 2 2 2 2 2 1 1 1 3 3 3 3 3 3 1 1 1 1 1 1 1]]
+Final DataFrame with SOM clusters saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/df2_predicted_clusters.csv
+Final DataFrame with SOM clusters saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/df2_predicted_clusters.csv
+
+Color assignments:
+  Cluster 1: RGB [31, 119, 180]
+  Cluster 2: RGB [152, 223, 138]
+  Cluster 3: RGB [140, 86, 75]
+  Cluster 4: RGB [199, 199, 199]
+  Cluster 5: RGB [158, 218, 229]
+✓ Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/som_node_cluster_map2.png
+✓ Cluster data saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/som_node_cluster_map2.npy
+✓ Cluster data saved as CSV: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/som_node_cluster_map2.csv
+✓ Color mapping saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/cluster_colors2.txt
+✓ Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/som_node_cluster_map2.png
+✓ Cluster data saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/som_node_cluster_map2.npy
+✓ Cluster data saved as CSV: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/som_node_cluster_map2.csv
+✓ Color mapping saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/cluster_colors2.txt
+
+==================================================
+CLUSTER STATISTICS:
+==================================================
+Total SOM nodes: 783 (29 × 27)
+
+Cluster distribution:
+  Cluster 1: 145 nodes (18.5%)
+  Cluster 2: 536 nodes (68.5%)
+  Cluster 3: 76 nodes (9.7%)
+  Cluster 4: 14 nodes (1.8%)
+  Cluster 5: 12 nodes (1.5%)
+
+Number of clusters found: 5
+Clusters present: [1, 2, 3, 4, 5]
+
+SOM–KMeans Cluster Support (weighted by hit counts)
+============================================================
+Cluster   Total hits     Mean/node      Median    Core frac (>10 hits)
+1         4298           29.64          6.0       27.6%
+2         4337           8.09           3.0       19.0%
+3         1926           25.34          6.0       34.2%
+4         214            15.29          10.5      50.0%
+5         257            21.42          11.0      50.0%
+Neighborhood Preservation Index: 0.066
+U-Matrix saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/u_matrix.png
+U-Matrix saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/u_matrix.png
+Component plane for acaenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acaenc.png
+Component plane for acaenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acaenc.png
+Component plane for acamas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acamas.png
+Component plane for acamas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acamas.png
+Component plane for acoenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acoenc.png
+Component plane for acoenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acoenc.png
+Component plane for acomas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acomas.png
+Component plane for acomas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acomas.png
+Component plane for acrarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acrarb.png
+Component plane for acrarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acrarb.png
+Component plane for acrbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acrbus.png
+Component plane for acrbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acrbus.png
+Component plane for acrenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acrenc.png
+Component plane for acrenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acrenc.png
+Component plane for acrtab saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acrtab.png
+Component plane for acrtab saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_acrtab.png
+Component plane for actfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_actfan.png
+Component plane for actfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_actfan.png
+Component plane for alcarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_alcarb.png
+Component plane for alcarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_alcarb.png
+Component plane for alcbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_alcbus.png
+Component plane for alcbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_alcbus.png
+Component plane for alcfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_alcfan.png
+Component plane for alcfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_alcfan.png
+Component plane for algunk1 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_algunk1.png
+Component plane for algunk1 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_algunk1.png
+Component plane for algunk2 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_algunk2.png
+Component plane for algunk2 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_algunk2.png
+Component plane for alvenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_alvenc.png
+Component plane for alvenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_alvenc.png
+Component plane for alvmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_alvmas.png
+Component plane for alvmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_alvmas.png
+Component plane for ampart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ampart.png
+Component plane for ampart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ampart.png
+Component plane for ampenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ampenc.png
+Component plane for ampenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ampenc.png
+Component plane for anabus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_anabus.png
+Component plane for anabus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_anabus.png
+Component plane for anefan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_anefan.png
+Component plane for anefan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_anefan.png
+Component plane for antarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antarb.png
+Component plane for antarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antarb.png
+Component plane for antarb1 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antarb1.png
+Component plane for antarb1 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antarb1.png
+Component plane for antarb2 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antarb2.png
+Component plane for antarb2 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antarb2.png
+Component plane for antbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antbus.png
+Component plane for antbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antbus.png
+Component plane for antbus1 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antbus1.png
+Component plane for antbus1 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antbus1.png
+Component plane for antbus2 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antbus2.png
+Component plane for antbus2 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antbus2.png
+Component plane for antclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antclu.png
+Component plane for antclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antclu.png
+Component plane for antfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antfan.png
+Component plane for antfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antfan.png
+Component plane for antwhi saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antwhi.png
+Component plane for antwhi saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_antwhi.png
+Component plane for aphcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_aphcom.png
+Component plane for aphcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_aphcom.png
+Component plane for ascclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ascclu.png
+Component plane for ascclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ascclu.png
+Component plane for ascenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ascenc.png
+Component plane for ascenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ascenc.png
+Component plane for ascere saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ascere.png
+Component plane for ascere saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ascere.png
+Component plane for aspcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_aspcom.png
+Component plane for aspcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_aspcom.png
+Component plane for astclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_astclu.png
+Component plane for astclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_astclu.png
+Component plane for astenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_astenc.png
+Component plane for astenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_astenc.png
+Component plane for astfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_astfan.png
+Component plane for astfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_astfan.png
+Component plane for astfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_astfol.png
+Component plane for astfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_astfol.png
+Component plane for astmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_astmas.png
+Component plane for astmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_astmas.png
+Component plane for astoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_astoth.png
+Component plane for astoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_astoth.png
+Component plane for atrenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_atrenc.png
+Component plane for atrenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_atrenc.png
+Component plane for atrmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_atrmas.png
+Component plane for atrmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_atrmas.png
+Component plane for bebbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_bebbus.png
+Component plane for bebbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_bebbus.png
+Component plane for bebfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_bebfan.png
+Component plane for bebfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_bebfan.png
+Component plane for bivoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_bivoth.png
+Component plane for bivoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_bivoth.png
+Component plane for brienc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_brienc.png
+Component plane for brienc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_brienc.png
+Component plane for brocof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_brocof.png
+Component plane for brocof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_brocof.png
+Component plane for brybus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_brybus.png
+Component plane for brybus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_brybus.png
+Component plane for bryenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_bryenc.png
+Component plane for bryenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_bryenc.png
+Component plane for brymas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_brymas.png
+Component plane for brymas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_brymas.png
+Component plane for caebus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_caebus.png
+Component plane for caebus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_caebus.png
+Component plane for camoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_camoth.png
+Component plane for camoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_camoth.png
+Component plane for capbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_capbus.png
+Component plane for capbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_capbus.png
+Component plane for carbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_carbus.png
+Component plane for carbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_carbus.png
+Component plane for caulcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_caulcom.png
+Component plane for caulcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_caulcom.png
+Component plane for caumas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_caumas.png
+Component plane for caumas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_caumas.png
+Component plane for ceralg saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ceralg.png
+Component plane for ceralg saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ceralg.png
+Component plane for chacom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_chacom.png
+Component plane for chacom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_chacom.png
+Component plane for chdfil saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_chdfil.png
+Component plane for chdfil saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_chdfil.png
+Component plane for chibus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_chibus.png
+Component plane for chibus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_chibus.png
+Component plane for chlfol1 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_chlfol1.png
+Component plane for chlfol1 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_chlfol1.png
+Component plane for chocom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_chocom.png
+Component plane for chocom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_chocom.png
+Component plane for claclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_claclu.png
+Component plane for claclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_claclu.png
+Component plane for clienc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_clienc.png
+Component plane for clienc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_clienc.png
+Component plane for clvclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_clvclu.png
+Component plane for clvclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_clvclu.png
+Component plane for codcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_codcom.png
+Component plane for codcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_codcom.png
+Component plane for coearb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_coearb.png
+Component plane for coearb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_coearb.png
+Component plane for coeenc2 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_coeenc2.png
+Component plane for coeenc2 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_coeenc2.png
+Component plane for coemas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_coemas.png
+Component plane for coemas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_coemas.png
+Component plane for conbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_conbus.png
+Component plane for conbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_conbus.png
+Component plane for conenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_conenc.png
+Component plane for conenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_conenc.png
+Component plane for corenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_corenc.png
+Component plane for corenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_corenc.png
+Component plane for corenc1 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_corenc1.png
+Component plane for corenc1 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_corenc1.png
+Component plane for corenc2 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_corenc2.png
+Component plane for corenc2 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_corenc2.png
+Component plane for corenc3 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_corenc3.png
+Component plane for corenc3 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_corenc3.png
+Component plane for corenc4 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_corenc4.png
+Component plane for corenc4 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_corenc4.png
+Component plane for cosenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cosenc.png
+Component plane for cosenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cosenc.png
+Component plane for cosmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cosmas.png
+Component plane for cosmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cosmas.png
+Component plane for crioth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_crioth.png
+Component plane for crioth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_crioth.png
+Component plane for culnov saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_culnov.png
+Component plane for culnov saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_culnov.png
+Component plane for cyafil saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cyafil.png
+Component plane for cyafil saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cyafil.png
+Component plane for cycenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cycenc.png
+Component plane for cycenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cycenc.png
+Component plane for cycmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cycmas.png
+Component plane for cycmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cycmas.png
+Component plane for cypenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cypenc.png
+Component plane for cypenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cypenc.png
+Component plane for cypmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cypmas.png
+Component plane for cypmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cypmas.png
+Component plane for cytbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cytbus.png
+Component plane for cytbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_cytbus.png
+Component plane for delcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_delcom.png
+Component plane for delcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_delcom.png
+Component plane for denbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_denbus.png
+Component plane for denbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_denbus.png
+Component plane for diaoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_diaoth.png
+Component plane for diaoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_diaoth.png
+Component plane for diccof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_diccof.png
+Component plane for diccof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_diccof.png
+Component plane for dicspha saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_dicspha.png
+Component plane for dicspha saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_dicspha.png
+Component plane for didclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_didclu.png
+Component plane for didclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_didclu.png
+Component plane for didenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_didenc.png
+Component plane for didenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_didenc.png
+Component plane for didere saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_didere.png
+Component plane for didere saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_didere.png
+Component plane for dilmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_dilmas.png
+Component plane for dilmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_dilmas.png
+Component plane for dioart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_dioart.png
+Component plane for dioart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_dioart.png
+Component plane for dipenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_dipenc.png
+Component plane for dipenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_dipenc.png
+Component plane for dipmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_dipmas.png
+Component plane for dipmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_dipmas.png
+Component plane for disenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_disenc.png
+Component plane for disenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_disenc.png
+Component plane for ditfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ditfol.png
+Component plane for ditfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ditfol.png
+Component plane for dudcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_dudcom.png
+Component plane for dudcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_dudcom.png
+Component plane for echenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_echenc.png
+Component plane for echenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_echenc.png
+Component plane for echmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_echmas.png
+Component plane for echmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_echmas.png
+Component plane for echoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_echoth.png
+Component plane for echoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_echoth.png
+Component plane for ecoenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ecoenc.png
+Component plane for ecoenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ecoenc.png
+Component plane for ecofol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ecofol.png
+Component plane for ecofol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ecofol.png
+Component plane for effclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_effclu.png
+Component plane for effclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_effclu.png
+Component plane for ellarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ellarb.png
+Component plane for ellarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ellarb.png
+Component plane for entenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_entenc.png
+Component plane for entenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_entenc.png
+Component plane for epiarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_epiarb.png
+Component plane for epiarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_epiarb.png
+Component plane for euccom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_euccom.png
+Component plane for euccom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_euccom.png
+Component plane for euparb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_euparb.png
+Component plane for euparb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_euparb.png
+Component plane for eupfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_eupfan.png
+Component plane for eupfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_eupfan.png
+Component plane for eupmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_eupmas.png
+Component plane for eupmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_eupmas.png
+Component plane for faienc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_faienc.png
+Component plane for faienc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_faienc.png
+Component plane for faimas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_faimas.png
+Component plane for faimas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_faimas.png
+Component plane for fimmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_fimmas.png
+Component plane for fimmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_fimmas.png
+Component plane for foroth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_foroth.png
+Component plane for foroth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_foroth.png
+Component plane for funmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_funmas.png
+Component plane for funmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_funmas.png
+Component plane for galenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_galenc.png
+Component plane for galenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_galenc.png
+Component plane for galmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_galmas.png
+Component plane for galmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_galmas.png
+Component plane for garenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_garenc.png
+Component plane for garenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_garenc.png
+Component plane for garmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_garmas.png
+Component plane for garmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_garmas.png
+Component plane for gasoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gasoth.png
+Component plane for gasoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gasoth.png
+Component plane for glaart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_glaart.png
+Component plane for glaart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_glaart.png
+Component plane for gnicol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gnicol.png
+Component plane for gnicol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gnicol.png
+Component plane for gnienc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gnienc.png
+Component plane for gnienc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gnienc.png
+Component plane for gnimas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gnimas.png
+Component plane for gnimas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gnimas.png
+Component plane for gonenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gonenc.png
+Component plane for gonenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gonenc.png
+Component plane for gonmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gonmas.png
+Component plane for gonmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gonmas.png
+Component plane for gracom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gracom.png
+Component plane for gracom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_gracom.png
+Component plane for hacenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hacenc.png
+Component plane for hacenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hacenc.png
+Component plane for halart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_halart.png
+Component plane for halart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_halart.png
+Component plane for halova saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_halova.png
+Component plane for halova saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_halova.png
+Component plane for helbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_helbus.png
+Component plane for helbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_helbus.png
+Component plane for helenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_helenc.png
+Component plane for helenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_helenc.png
+Component plane for hemoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hemoth.png
+Component plane for hemoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hemoth.png
+Component plane for hetclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hetclu.png
+Component plane for hetclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hetclu.png
+Component plane for hetenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hetenc.png
+Component plane for hetenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hetenc.png
+Component plane for hicbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hicbus.png
+Component plane for hicbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hicbus.png
+Component plane for hlmfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hlmfol.png
+Component plane for hlmfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hlmfol.png
+Component plane for holospp saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_holospp.png
+Component plane for holospp saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_holospp.png
+Component plane for hydarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hydarb.png
+Component plane for hydarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hydarb.png
+Component plane for hydbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hydbus.png
+Component plane for hydbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hydbus.png
+Component plane for hydcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hydcom.png
+Component plane for hydcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hydcom.png
+Component plane for hydenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hydenc.png
+Component plane for hydenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hydenc.png
+Component plane for hydmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hydmas.png
+Component plane for hydmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hydmas.png
+Component plane for hypcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hypcom.png
+Component plane for hypcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hypcom.png
+Component plane for hyrarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hyrarb.png
+Component plane for hyrarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hyrarb.png
+Component plane for hyrbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hyrbus.png
+Component plane for hyrbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hyrbus.png
+Component plane for hyrplu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hyrplu.png
+Component plane for hyrplu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_hyrplu.png
+Component plane for isiarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_isiarb.png
+Component plane for isiarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_isiarb.png
+Component plane for isparb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_isparb.png
+Component plane for isparb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_isparb.png
+Component plane for ispcol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ispcol.png
+Component plane for ispcol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ispcol.png
+Component plane for ispenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ispenc.png
+Component plane for ispenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ispenc.png
+Component plane for ispmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ispmas.png
+Component plane for ispmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ispmas.png
+Component plane for janart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_janart.png
+Component plane for janart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_janart.png
+Component plane for junwhi saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_junwhi.png
+Component plane for junwhi saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_junwhi.png
+Component plane for laucom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_laucom.png
+Component plane for laucom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_laucom.png
+Component plane for lbamas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lbamas.png
+Component plane for lbamas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lbamas.png
+Component plane for lembus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lembus.png
+Component plane for lembus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lembus.png
+Component plane for letenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_letenc.png
+Component plane for letenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_letenc.png
+Component plane for letmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_letmas.png
+Component plane for letmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_letmas.png
+Component plane for liaart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_liaart.png
+Component plane for liaart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_liaart.png
+Component plane for linoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_linoth.png
+Component plane for linoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_linoth.png
+Component plane for lisenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lisenc.png
+Component plane for lisenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lisenc.png
+Component plane for litbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_litbus.png
+Component plane for litbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_litbus.png
+Component plane for litenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_litenc.png
+Component plane for litenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_litenc.png
+Component plane for litfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_litfol.png
+Component plane for litfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_litfol.png
+Component plane for lobcof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lobcof.png
+Component plane for lobcof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lobcof.png
+Component plane for lobenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lobenc.png
+Component plane for lobenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lobenc.png
+Component plane for lobmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lobmas.png
+Component plane for lobmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lobmas.png
+Component plane for lohenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lohenc.png
+Component plane for lohenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lohenc.png
+Component plane for loodig saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_loodig.png
+Component plane for loodig saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_loodig.png
+Component plane for loolob saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_loolob.png
+Component plane for loolob saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_loolob.png
+Component plane for loomas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_loomas.png
+Component plane for loomas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_loomas.png
+Component plane for lpsenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lpsenc.png
+Component plane for lpsenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lpsenc.png
+Component plane for lpsfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lpsfol.png
+Component plane for lpsfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_lpsfol.png
+Component plane for ltrenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ltrenc.png
+Component plane for ltrenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ltrenc.png
+Component plane for ltrmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ltrmas.png
+Component plane for ltrmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ltrmas.png
+Component plane for marart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_marart.png
+Component plane for marart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_marart.png
+Component plane for masart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_masart.png
+Component plane for masart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_masart.png
+Component plane for melcof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_melcof.png
+Component plane for melcof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_melcof.png
+Component plane for melfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_melfan.png
+Component plane for melfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_melfan.png
+Component plane for mercom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_mercom.png
+Component plane for mercom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_mercom.png
+Component plane for merenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_merenc.png
+Component plane for merenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_merenc.png
+Component plane for mermas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_mermas.png
+Component plane for mermas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_mermas.png
+Component plane for mesart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_mesart.png
+Component plane for mesart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_mesart.png
+Component plane for meuenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_meuenc.png
+Component plane for meuenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_meuenc.png
+Component plane for meufol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_meufol.png
+Component plane for meufol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_meufol.png
+Component plane for milarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_milarb.png
+Component plane for milarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_milarb.png
+Component plane for milbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_milbus.png
+Component plane for milbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_milbus.png
+Component plane for milenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_milenc.png
+Component plane for milenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_milenc.png
+Component plane for monenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_monenc.png
+Component plane for monenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_monenc.png
+Component plane for monfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_monfol.png
+Component plane for monfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_monfol.png
+Component plane for monmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_monmas.png
+Component plane for monmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_monmas.png
+Component plane for mycenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_mycenc.png
+Component plane for mycenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_mycenc.png
+Component plane for mycfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_mycfol.png
+Component plane for mycfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_mycfol.png
+Component plane for nemenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_nemenc.png
+Component plane for nemenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_nemenc.png
+Component plane for neocof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_neocof.png
+Component plane for neocof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_neocof.png
+Component plane for nepbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_nepbus.png
+Component plane for nepbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_nepbus.png
+Component plane for neucom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_neucom.png
+Component plane for neucom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_neucom.png
+Component plane for nudoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_nudoth.png
+Component plane for nudoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_nudoth.png
+Component plane for ophoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ophoth.png
+Component plane for ophoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ophoth.png
+Component plane for othcca saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_othcca.png
+Component plane for othcca saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_othcca.png
+Component plane for othoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_othoth.png
+Component plane for othoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_othoth.png
+Component plane for oulenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_oulenc.png
+Component plane for oulenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_oulenc.png
+Component plane for oulmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_oulmas.png
+Component plane for oulmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_oulmas.png
+Component plane for oustenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_oustenc.png
+Component plane for oustenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_oustenc.png
+Component plane for oxyenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_oxyenc.png
+Component plane for oxyenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_oxyenc.png
+Component plane for oxyfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_oxyfol.png
+Component plane for oxyfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_oxyfol.png
+Component plane for oxymas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_oxymas.png
+Component plane for oxymas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_oxymas.png
+Component plane for pacenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pacenc.png
+Component plane for pacenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pacenc.png
+Component plane for pacfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pacfol.png
+Component plane for pacfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pacfol.png
+Component plane for padcof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_padcof.png
+Component plane for padcof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_padcof.png
+Component plane for pagenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pagenc.png
+Component plane for pagenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pagenc.png
+Component plane for pagmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pagmas.png
+Component plane for pagmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pagmas.png
+Component plane for pagoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pagoth.png
+Component plane for pagoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pagoth.png
+Component plane for palenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_palenc.png
+Component plane for palenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_palenc.png
+Component plane for palmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_palmas.png
+Component plane for palmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_palmas.png
+Component plane for pararb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pararb.png
+Component plane for pararb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pararb.png
+Component plane for parbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_parbus.png
+Component plane for parbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_parbus.png
+Component plane for parmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_parmas.png
+Component plane for parmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_parmas.png
+Component plane for pavcol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pavcol.png
+Component plane for pavcol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pavcol.png
+Component plane for pavenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pavenc.png
+Component plane for pavenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pavenc.png
+Component plane for pavfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pavfol.png
+Component plane for pavfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pavfol.png
+Component plane for pavmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pavmas.png
+Component plane for pavmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pavmas.png
+Component plane for pecenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pecenc.png
+Component plane for pecenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pecenc.png
+Component plane for pescca saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pescca.png
+Component plane for pescca saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pescca.png
+Component plane for phsenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_phsenc.png
+Component plane for phsenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_phsenc.png
+Component plane for phyenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_phyenc.png
+Component plane for phyenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_phyenc.png
+Component plane for pinarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pinarb.png
+Component plane for pinarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pinarb.png
+Component plane for plaenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_plaenc.png
+Component plane for plaenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_plaenc.png
+Component plane for plamas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_plamas.png
+Component plane for plamas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_plamas.png
+Component plane for pleenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pleenc.png
+Component plane for pleenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pleenc.png
+Component plane for plemas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_plemas.png
+Component plane for plemas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_plemas.png
+Component plane for pocbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pocbus.png
+Component plane for pocbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_pocbus.png
+Component plane for poctab saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_poctab.png
+Component plane for poctab saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_poctab.png
+Component plane for podenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_podenc.png
+Component plane for podenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_podenc.png
+Component plane for podfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_podfol.png
+Component plane for podfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_podfol.png
+Component plane for polmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_polmas.png
+Component plane for polmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_polmas.png
+Component plane for porcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_porcom.png
+Component plane for porcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_porcom.png
+Component plane for potcol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_potcol.png
+Component plane for potcol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_potcol.png
+Component plane for potenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_potenc.png
+Component plane for potenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_potenc.png
+Component plane for potfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_potfol.png
+Component plane for potfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_potfol.png
+Component plane for potmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_potmas.png
+Component plane for potmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_potmas.png
+Component plane for psabus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_psabus.png
+Component plane for psabus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_psabus.png
+Component plane for psacol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_psacol.png
+Component plane for psacol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_psacol.png
+Component plane for psaenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_psaenc.png
+Component plane for psaenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_psaenc.png
+Component plane for psamas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_psamas.png
+Component plane for psamas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_psamas.png
+Component plane for redart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_redart.png
+Component plane for redart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_redart.png
+Component plane for redcof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_redcof.png
+Component plane for redcof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_redcof.png
+Component plane for redcof1 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_redcof1.png
+Component plane for redcof1 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_redcof1.png
+Component plane for redcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_redcom.png
+Component plane for redcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_redcom.png
+Component plane for redfil saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_redfil.png
+Component plane for redfil saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_redfil.png
+Component plane for rhocom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_rhocom.png
+Component plane for rhocom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_rhocom.png
+Component plane for rhyenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_rhyenc.png
+Component plane for rhyenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_rhyenc.png
+Component plane for rumarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_rumarb.png
+Component plane for rumarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_rumarb.png
+Component plane for rumbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_rumbus.png
+Component plane for rumbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_rumbus.png
+Component plane for saboth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_saboth.png
+Component plane for saboth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_saboth.png
+Component plane for sarlem saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sarlem.png
+Component plane for sarlem saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sarlem.png
+Component plane for sarlob saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sarlob.png
+Component plane for sarlob saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sarlob.png
+Component plane for sarmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sarmas.png
+Component plane for sarmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sarmas.png
+Component plane for scacol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_scacol.png
+Component plane for scacol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_scacol.png
+Component plane for sclbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sclbus.png
+Component plane for sclbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sclbus.png
+Component plane for scomas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_scomas.png
+Component plane for scomas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_scomas.png
+Component plane for sebcof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sebcof.png
+Component plane for sebcof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sebcof.png
+Component plane for serbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_serbus.png
+Component plane for serbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_serbus.png
+Component plane for sidenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sidenc.png
+Component plane for sidenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sidenc.png
+Component plane for sidmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sidmas.png
+Component plane for sidmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sidmas.png
+Component plane for sinbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sinbus.png
+Component plane for sinbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sinbus.png
+Component plane for sindig saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sindig.png
+Component plane for sindig saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sindig.png
+Component plane for sinlob saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sinlob.png
+Component plane for sinlob saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sinlob.png
+Component plane for sipbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sipbus.png
+Component plane for sipbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sipbus.png
+Component plane for sipfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sipfan.png
+Component plane for sipfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sipfan.png
+Component plane for solfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_solfan.png
+Component plane for solfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_solfan.png
+Component plane for spacof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spacof.png
+Component plane for spacof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spacof.png
+Component plane for spoarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spoarb.png
+Component plane for spoarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spoarb.png
+Component plane for spoenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spoenc.png
+Component plane for spoenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spoenc.png
+Component plane for spofla saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spofla.png
+Component plane for spofla saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spofla.png
+Component plane for spoglo saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spoglo.png
+Component plane for spoglo saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spoglo.png
+Component plane for spomas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spomas.png
+Component plane for spomas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spomas.png
+Component plane for spopap saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spopap.png
+Component plane for spopap saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spopap.png
+Component plane for spoped saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spoped.png
+Component plane for spoped saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spoped.png
+Component plane for sporep saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sporep.png
+Component plane for sporep saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_sporep.png
+Component plane for spotub saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spotub.png
+Component plane for spotub saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spotub.png
+Component plane for spycom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spycom.png
+Component plane for spycom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_spycom.png
+Component plane for stebus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_stebus.png
+Component plane for stebus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_stebus.png
+Component plane for stienc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_stienc.png
+Component plane for stienc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_stienc.png
+Component plane for stlenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_stlenc.png
+Component plane for stlenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_stlenc.png
+Component plane for stpcof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_stpcof.png
+Component plane for stpcof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_stpcof.png
+Component plane for stybus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_stybus.png
+Component plane for stybus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_stybus.png
+Component plane for syabus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_syabus.png
+Component plane for syabus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_syabus.png
+Component plane for symenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_symenc.png
+Component plane for symenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_symenc.png
+Component plane for symmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_symmas.png
+Component plane for symmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_symmas.png
+Component plane for terenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_terenc.png
+Component plane for terenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_terenc.png
+Component plane for thalhem saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_thalhem.png
+Component plane for thalhem saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_thalhem.png
+Component plane for triart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_triart.png
+Component plane for triart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_triart.png
+Component plane for trienc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_trienc.png
+Component plane for trienc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_trienc.png
+Component plane for tubmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_tubmas.png
+Component plane for tubmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_tubmas.png
+Component plane for turcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_turcom.png
+Component plane for turcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_turcom.png
+Component plane for turenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_turenc.png
+Component plane for turenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_turenc.png
+Component plane for turfil saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_turfil.png
+Component plane for turfil saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_turfil.png
+Component plane for turfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_turfol.png
+Component plane for turfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_turfol.png
+Component plane for turmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_turmas.png
+Component plane for turmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_turmas.png
+Component plane for turrad_enc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_turrad_enc.png
+Component plane for turrad_enc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_turrad_enc.png
+Component plane for tursed saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_tursed.png
+Component plane for tursed saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_tursed.png
+Component plane for tusbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_tusbus.png
+Component plane for tusbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_tusbus.png
+Component plane for tusenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_tusenc.png
+Component plane for tusenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_tusenc.png
+Component plane for tusmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_tusmas.png
+Component plane for tusmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_tusmas.png
+Component plane for udocom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_udocom.png
+Component plane for udocom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_udocom.png
+Component plane for ulvfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ulvfol.png
+Component plane for ulvfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_ulvfol.png
+Component plane for valcof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_valcof.png
+Component plane for valcof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_valcof.png
+Component plane for vimwhi saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_vimwhi.png
+Component plane for vimwhi saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_vimwhi.png
+Component plane for xesmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_xesmas.png
+Component plane for xesmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_xesmas.png
+Component plane for xnaclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_xnaclu.png
+Component plane for xnaclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_xnaclu.png
+Component plane for zoaenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_zoaenc.png
+Component plane for zoaenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_zoaenc.png
+Component plane for zoamas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_zoamas.png
+Component plane for zoamas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_zoamas.png
+Component plane for zoncof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_zoncof.png
+Component plane for zoncof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/component_plane_zoncof.png
+Node cluster map shape: (29, 27)
+Should match U-Matrix: (29, 27)
+✓ U-Matrix with KMeans overlay saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/umatrix_kmeans_overlay.png
+✓ U-Matrix with KMeans overlay saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/umatrix_kmeans_overlay.png
+
+🎯 ENVIRONMENTAL ANALYSIS: manhattan
+Cluster column: predicted_Cluster
+Analyzing 0 environmental variables
+❌ No environmental variables found!
+Failed to save final DataFrame: expected str, bytes or os.PathLike object, not list
+Saved df2 with cluster info to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+Saved df2 with cluster info to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+
+🎯 ASSEMBLAGE GRADIENT ANALYSIS: PCA
+Gradient axis: PC1
+Analyzing 320 assemblage variables
+
+📊 CORRELATION RESULTS:
+          Spearman_r  p_value   abs_r   fdr_q significance
+variable                                                  
+acaenc       -0.0109   0.2524  0.0109  0.3035           ns
+acrarb       -0.2281   0.0000  0.2281  0.0000          ***
+acrbus       -0.1079   0.0000  0.1079  0.0000          ***
+acrenc       -0.1177   0.0000  0.1177  0.0000          ***
+acrtab       -0.2684   0.0000  0.2684  0.0000          ***
+...              ...      ...     ...     ...          ...
+turfol       -0.1942   0.0000  0.1942  0.0000          ***
+tursed       -0.4447   0.0000  0.4447  0.0000          ***
+xesmas       -0.0105   0.2722  0.0105  0.3174           ns
+zoaenc        0.0196   0.0398  0.0196  0.0565           ns
+zoncof        0.0044   0.6432  0.0044  0.6865           ns
+
+[95 rows x 5 columns]
+
+💪 STRONG GRADIENT DRIVERS (|r| > 0.5):
+  othcca: r = 0.548, p = 0
+  turfil: r = 0.845, p = 0
+📉 Plotting 5 strong gradient taxa
+✅ Saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+✅ Saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/som_node_cluster_map.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/som_node_cluster_map.png
+ARI: 0.342, NMI: 0.425
+Cluster visualization saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/som_node_cluster_map1.png
+Cluster visualization saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/som_node_cluster_map1.png
+Failed to save final DataFrame: expected str, bytes or os.PathLike object, not list
+Saved df2 with cluster info to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+Saved df2 with cluster info to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+Map plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spatial_clusters_taiwan_geomap.png
+Map plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spatial_clusters_taiwan_geomap.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spatial_clusters_taiwan_shmap.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spatial_clusters_taiwan_shmap.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spatial_clusters_westtaiwan_shmap.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spatial_clusters_westtaiwan_shmap.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spatial_clusters_southtaiwan_shmap.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spatial_clusters_southtaiwan_shmap.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spatial_clusters_northtaiwan_shmap.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spatial_clusters_northtaiwan_shmap.png
+Saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/richness_by_cluster.png
+Saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/richness_by_cluster.png
+Map plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/species_richness_taiwan_geomap.png
+Map plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/species_richness_taiwan_geomap.png
+Saved species richness map to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/species_richness_taiwan_shmap.png
+Saved species richness map to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/species_richness_taiwan_shmap.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/Species_overlay.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/Species_overlay.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/composition_by_cluster.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/composition_by_cluster.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/composition_by_cluster.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/composition_by_cluster.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/composition_by_cluster_top5.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/composition_by_cluster_top5.png
+
+Top 5 Categories per Cluster:
+==================================================
+Cluster 0:
+  1. Turf: 62.5%
+  2. CCA: 17.2%
+  3. Hard coral: 12.8%
+  4. Macroalgae: 0.9%
+  5. Soft coral: 0.8%
+
+Cluster 1:
+  1. Turf: 34.2%
+  2. Hard coral: 33.0%
+  3. CCA: 19.5%
+  4. Soft coral: 5.2%
+  5. Zoanthid: 2.6%
+
+Cluster 2:
+  1. Turf: 59.6%
+  2. Hard coral: 15.7%
+  3. CCA: 10.5%
+  4. Soft coral: 3.1%
+  5. Zoanthid: 0.8%
+
+Cluster 3:
+  1. Hard coral: 63.6%
+  2. Turf: 20.0%
+  3. CCA: 9.7%
+  4. Soft coral: 0.3%
+  5. Other mobile invertebrates: 0.1%
+
+Cluster 4:
+  1. Hard coral: 67.0%
+  2. Turf: 23.1%
+  3. CCA: 5.4%
+  4. Soft coral: 0.7%
+  5. Zoanthid: 0.2%
+
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/composition_by_cluster_top5_others.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/composition_by_cluster_top5_others.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/majorcatcompo_bars.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/majorcatcompo_bars.png
+Saved stacked bar chart to /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/majorcatcompo_bars.png
+Saved stacked bar chart to /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/majorcatcompo_bars.png
+Saved stacked bar chart to /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/majorcatcompo_bars.png
+Saved stacked bar chart to /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/majorcatcompo_bars.png
+Overlay plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/u_matrix_overlay_site.png
+Overlay plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/u_matrix_overlay_site.png
+Overlay plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/u_matrix_overlay_site_count.png
+Overlay plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/u_matrix_overlay_site_count.png
+Overlay plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/u_matrix_overlay_cluster.png
+Overlay plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/u_matrix_overlay_cluster.png
+Colored cluster overlay saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/u_matrix_kmeans_colored.png
+Colored cluster overlay saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/u_matrix_kmeans_colored.png
+Classification Report:
+              precision    recall  f1-score   support
+
+           1       1.00      0.99      1.00      1290
+           2       0.99      1.00      1.00      1301
+           3       1.00      1.00      1.00       578
+           4       1.00      1.00      1.00        64
+           5       1.00      1.00      1.00        77
+
+    accuracy                           1.00      3310
+   macro avg       1.00      1.00      1.00      3310
+weighted avg       1.00      1.00      1.00      3310
+
+
+Visualizing results...
+confusion matrix plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/confusion_matrix.png
+confusion matrix plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/confusion_matrix.png
+Simplified node purity plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/node_purity_simplified.png
+Simplified node purity plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/node_purity_simplified.png
+Node diversity per site saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/node_diversity_per_site.png
+Node diversity per site saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/node_diversity_per_site.png
+✓ Top 15 concentrated sites plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/top_15_concentrated_sites.png
+✓ Top 15 concentrated sites plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/top_15_concentrated_sites.png
+Node diversity per site saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/node_uniques_persite.png
+Node diversity per site saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/node_uniques_persite.png
+Node diversity per site saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/node_coverage.png
+Node diversity per site saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/node_coverage.png
+✓ Top 15 spatially spread sites plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/top_15_spatially_spread_sites.png
+✓ Top 15 spatially spread sites plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/top_15_spatially_spread_sites.png
+✓ Spread vs concentration scatter plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spread_vs_concentration_scatter.png
+✓ Spread vs concentration scatter plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spread_vs_concentration_scatter.png
+✓ Spread vs clustered comparison saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spread_vs_clustered_comparison.png
+✓ Spread vs clustered comparison saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/spread_vs_clustered_comparison.png
+✓ Data files saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+✓ Data files saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+
+============================================================
+TOP 15 SPATIAL SPREAD ANALYSIS
+============================================================
+
+Top 15 Most Spatially Spread Sites:
+--------------------------------------------------
+ 1. Fenniaolin          : Spread=19.10 | Concentration=20.0% | Samples=105 | Diversity=3.08
+ 2. Dengta              : Spread=18.62 | Concentration=10.5% | Samples=105 | Diversity=3.64
+ 3. Pengjia             : Spread=18.61 | Concentration=18.9% | Samples=106 | Diversity=3.56
+ 4. Xijiyu              : Spread=18.49 | Concentration=14.3% | Samples=105 | Diversity=3.06
+ 5. Hujingyu_North      : Spread=18.37 | Concentration=18.1% | Samples=105 | Diversity=3.12
+ 6. Toujinyu            : Spread=18.03 | Concentration=11.4% | Samples=105 | Diversity=3.58
+ 7. Yayo                : Spread=17.84 | Concentration=17.1% | Samples=105 | Diversity=3.33
+ 8. Tiezhenyu_South     : Spread=17.80 | Concentration=24.8% | Samples=105 | Diversity=2.77
+ 9. Maobitou            : Spread=17.71 | Concentration=10.5% | Samples=105 | Diversity=3.74
+10. Dingbaisha          : Spread=17.71 | Concentration=13.3% | Samples=105 | Diversity=3.06
+11. Keelungyu           : Spread=17.64 | Concentration=38.1% | Samples=105 | Diversity=2.71
+12. Qixingyan           : Spread=17.63 | Concentration=37.1% | Samples=105 | Diversity=2.32
+13. Sijiaoyu            : Spread=17.48 | Concentration=17.1% | Samples=105 | Diversity=2.64
+14. Mianhua             : Spread=17.41 | Concentration=10.5% | Samples=105 | Diversity=3.82
+15. Maoyu               : Spread=17.37 | Concentration=7.6% | Samples=105 | Diversity=3.77
+
+Top 15 Most Clustered Sites:
+--------------------------------------------------
+ 1. Zhaoyang            : Spread=3.53 | Concentration=25.7% | Samples=105 | Diversity=2.16
+ 2. Jiqi                : Spread=4.09 | Concentration=19.0% | Samples=105 | Diversity=2.40
+ 3. Midaoyu             : Spread=5.59 | Concentration=45.7% | Samples=105 | Diversity=1.23
+ 4. Huaping             : Spread=6.27 | Concentration=33.3% | Samples=105 | Diversity=2.01
+ 5. Shimendong          : Spread=7.12 | Concentration=60.0% | Samples=105 | Diversity=1.26
+ 6. Guian_Harbor        : Spread=8.47 | Concentration=21.9% | Samples=105 | Diversity=2.71
+ 7. Xiaoxianglan        : Spread=8.48 | Concentration=15.2% | Samples=105 | Diversity=2.80
+ 8. Qingwan_Inner_Bay   : Spread=8.55 | Concentration=32.4% | Samples=105 | Diversity=2.60
+ 9. Shiyusan            : Spread=9.81 | Concentration=21.0% | Samples=105 | Diversity=2.75
+10. Dafu                : Spread=10.24 | Concentration=21.3% | Samples=169 | Diversity=3.02
+11. Ponpontan           : Spread=10.34 | Concentration=16.2% | Samples=105 | Diversity=2.98
+12. Zhongao_Beach       : Spread=10.36 | Concentration=21.9% | Samples=105 | Diversity=2.24
+13. Longxiadong         : Spread=11.29 | Concentration=19.4% | Samples=170 | Diversity=2.83
+14. Qimei               : Spread=11.31 | Concentration=14.0% | Samples=107 | Diversity=3.14
+15. Xiaowan             : Spread=11.74 | Concentration=16.2% | Samples=105 | Diversity=3.23
+
+INTERESTING PATTERNS:
+--------------------------------------------------
+
+• Sites with high spread BUT low concentration (<30%):
+  Fenniaolin: Spread=19.10, Concentration=20.0%
+  Dengta: Spread=18.62, Concentration=10.5%
+  Dingbaisha: Spread=17.71, Concentration=13.3%
+  Maobitou: Spread=17.71, Concentration=10.5%
+  Mianhua: Spread=17.41, Concentration=10.5%
+  Pengjia: Spread=18.61, Concentration=18.9%
+  Yayo: Spread=17.84, Concentration=17.1%
+  Hujingyu_North: Spread=18.37, Concentration=18.1%
+  Maoyu: Spread=17.37, Concentration=7.6%
+  Sijiaoyu: Spread=17.48, Concentration=17.1%
+  Tiezhenyu_South: Spread=17.80, Concentration=24.8%
+  Toujinyu: Spread=18.03, Concentration=11.4%
+  Xijiyu: Spread=18.49, Concentration=14.3%
+Node diversity per site saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/node_shannonvsunique.png
+Node diversity per site saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/node_shannonvsunique.png
+============================================================
+NODE DIVERSITY ANALYSIS PER SITE
+============================================================
+Total sites analyzed: 102
+
+Diversity Categories:
+  Concentrated sites (≥70% in one node): 0
+  Moderate sites (50-70% in one node): 2
+  Diverse sites (<50% in one node): 100
+
+Most Concentrated Sites (Low Node Diversity):
+  Midaoyan: 64.8% in node (np.int64(23), np.int64(19)) (105 samples, 20 nodes)
+  Shimendong: 60.0% in node (np.int64(23), np.int64(19)) (105 samples, 12 nodes)
+  Qingwan: 46.7% in node (np.int64(28), np.int64(16)) (105 samples, 16 nodes)
+  Midaoyu: 45.7% in node (np.int64(23), np.int64(18)) (105 samples, 9 nodes)
+  Dongyuping: 38.1% in node (np.int64(22), np.int64(4)) (105 samples, 23 nodes)
+
+Most Diverse Sites (High Node Diversity):
+  Haishenping: Diversity=4.29, 80 nodes, 105 samples, dominant node=3.8%
+  Leidashih: Diversity=4.26, 80 nodes, 105 samples, dominant node=4.8%
+  Gongguan_2: Diversity=4.26, 78 nodes, 105 samples, dominant node=3.8%
+  Yanzidong: Diversity=4.21, 76 nodes, 105 samples, dominant node=4.8%
+  Kongziyan: Diversity=4.15, 74 nodes, 105 samples, dominant node=5.7%
+
+Sites with Widest Node Distribution:
+  Fenniaolin: Spread=19.10, 38 nodes across SOM
+  Dengta: Spread=18.62, 56 nodes across SOM
+  Pengjia: Spread=18.61, 55 nodes across SOM
+  Xijiyu: Spread=18.49, 36 nodes across SOM
+  Hujingyu_North: Spread=18.37, 39 nodes across SOM
+Site-node distribution saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/site_node_distribution.png
+Site-node distribution saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/site_node_distribution.png
+Detailed node diversity analysis saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/node_diversity_per_site.csv
+Detailed node diversity analysis saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/node_diversity_per_site.csv
+
+============================================================
+ANALYSIS COMPLETE
+============================================================
+This analysis reveals:
+• CONCENTRATED SITES: Samples cluster in few nodes (environmental homogeneity)
+• DIVERSE SITES: Samples spread across many nodes (environmental variability)
+• SPATIAL SPREAD: How widely sites' samples distribute across the SOM
+• NODE COVERAGE: Efficiency of node usage per site
+Index(['node', 'cluster', 'purity', 'entropy', 'majority_label',
+       'disagreement_rate', 'counts'],
+      dtype='object')
+     node  cluster  ...  disagreement_rate                      counts
+0  (0, 0)       14  ...           0.142857               {2: 12, 5: 2}
+1  (0, 1)       28  ...           0.321429         {5: 8, 2: 19, 1: 1}
+2  (0, 2)       25  ...           0.200000               {2: 20, 5: 5}
+3  (0, 3)       52  ...           0.442308  {5: 17, 2: 29, 1: 5, 3: 1}
+4  (0, 4)       67  ...           0.701493        {2: 20, 5: 44, 1: 3}
+
+[5 rows x 7 columns]
+purity heatmap saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/purity_matrix.png
+purity heatmap saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/purity_matrix.png
+Global Adjusted Rand Index (ARI): 0.3417815147512679
+Global Normalized Mutual Info (NMI): 0.42522124572429165
+479 transitional nodes detected:
+         node    purity  disagreement_rate  majority_label
+1      (0, 1)  0.678571           0.321429             2.0
+3      (0, 3)  0.557692           0.442308             2.0
+4      (0, 4)  0.656716           0.701493             5.0
+6      (0, 6)  0.540541           0.459459             2.0
+7      (0, 7)  0.666667           0.333333             2.0
+..        ...       ...                ...             ...
+769  (28, 13)  0.571429           0.571429             2.0
+770  (28, 14)  0.500000           0.833333             2.0
+775  (28, 19)  0.625000           0.375000             3.0
+776  (28, 20)  0.750000           0.750000             2.0
+782  (28, 26)  0.555556           0.444444             1.0
+
+[479 rows x 4 columns]
+           purity     entropy  disagreement_rate
+count  671.000000  671.000000         671.000000
+mean     0.815478    0.544948           0.585658
+std      0.194057    0.518267           0.380610
+min      0.333333   -0.000000           0.000000
+25%      0.666667   -0.000000           0.245690
+50%      0.875000    0.591673           0.666667
+75%      1.000000    0.970951           1.000000
+max      1.000000    1.728001           1.000000
+Plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/between_node_distance.png
+Plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/between_node_distance.png
+Category overlay plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/driver_overlay_panels_cleaned.png
+Category overlay plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/driver_overlay_panels_cleaned.png
+
+📊 CLUSTER COMPOSITION BY MAJOR CATEGORIES
+✓ Cluster composition saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+✓ Cluster composition saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+
+🔍 IDENTIFYING SIGNATURE SPECIES PER CLUSTER
+
+📈 Analyzing Cluster 1:
+   Size: 4298 samples
+   Total abundance: 0.96
+   🎯 Most enriched species (enrichment score):
+      zoncof               (Macroalgae               ): 2.57x
+      ampart               (Macroalgae               ): 2.11x
+      thalhem              (Seagrass                 ): 1.87x
+      hypcom               (Macroalgae               ): 1.70x
+      atrenc               (Hard coral               ): 1.69x
+   📊 Most abundant species (absolute mean):
+      turfil               (Turf                     ): 0.511
+      tursed               (Turf                     ): 0.114
+      othcca               (CCA                      ): 0.103
+      pescca               (CCA                      ): 0.069
+      monenc               (Hard coral               ): 0.026
+
+📈 Analyzing Cluster 2:
+   Size: 4337 samples
+   Total abundance: 0.96
+   🎯 Most enriched species (enrichment score):
+      helenc               (Hard coral               ): 2.44x
+      palmas               (Zoanthid                 ): 2.20x
+      astclu               (Soft coral               ): 2.15x
+      claclu               (Soft coral               ): 2.14x
+      loodig               (Soft coral               ): 2.11x
+   📊 Most abundant species (absolute mean):
+      turfil               (Turf                     ): 0.244
+      othcca               (CCA                      ): 0.104
+      tursed               (Turf                     ): 0.097
+      pescca               (CCA                      ): 0.091
+      monenc               (Hard coral               ): 0.057
+
+📈 Analyzing Cluster 3:
+   Size: 1926 samples
+   Total abundance: 0.91
+   🎯 Most enriched species (enrichment score):
+      neucom               (Macroalgae               ): 5.73x
+      turfol               (Hard coral               ): 5.11x
+      sarlob               (Soft coral               ): 4.59x
+      corenc               (Corallimorpharia         ): 4.01x
+      brocof               (Macroalgae               ): 2.92x
+   📊 Most abundant species (absolute mean):
+      tursed               (Turf                     ): 0.405
+      turfil               (Turf                     ): 0.190
+      pescca               (CCA                      ): 0.053
+      othcca               (CCA                      ): 0.051
+      turfol               (Hard coral               ): 0.032
+
+📈 Analyzing Cluster 4:
+   Size: 214 samples
+   Total abundance: 0.94
+   🎯 Most enriched species (enrichment score):
+      acrarb               (Hard coral               ): 38.95x
+      sporep               (Sponge                   ): 4.03x
+      acrbus               (Hard coral               ): 3.76x
+      ispcol               (Hard coral               ): 3.25x
+      acrtab               (Hard coral               ): 2.86x
+   📊 Most abundant species (absolute mean):
+      acrarb               (Hard coral               ): 0.460
+      turfil               (Turf                     ): 0.101
+      tursed               (Turf                     ): 0.099
+      acrtab               (Hard coral               ): 0.053
+      othcca               (CCA                      ): 0.049
+
+📈 Analyzing Cluster 5:
+   Size: 257 samples
+   Total abundance: 0.97
+   🎯 Most enriched species (enrichment score):
+      symenc               (Hard coral               ): 25.90x
+      monfol               (Hard coral               ): 24.75x
+      ecofol               (Hard coral               ): 13.90x
+      pecenc               (Hard coral               ): 5.26x
+      potfol               (Hard coral               ): 3.17x
+   📊 Most abundant species (absolute mean):
+      monfol               (Hard coral               ): 0.403
+      tursed               (Turf                     ): 0.132
+      ecofol               (Hard coral               ): 0.118
+      turfil               (Turf                     ): 0.099
+      monenc               (Hard coral               ): 0.055
+✓ Signature species analysis saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+✓ Signature species analysis saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_1_to_2.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_1_to_2.png
+Saved: transition_1_to_2.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_1_to_2.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_1_to_2.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_1_to_3.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_1_to_3.png
+Saved: transition_1_to_3.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_1_to_3.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_1_to_3.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_1_to_4.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_1_to_4.png
+Saved: transition_1_to_4.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_1_to_4.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_1_to_4.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_2_to_3.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_2_to_3.png
+Saved: transition_2_to_3.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_2_to_3.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_2_to_3.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_2_to_4.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_2_to_4.png
+Saved: transition_2_to_4.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_2_to_4.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_2_to_4.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_2_to_5.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_2_to_5.png
+Saved: transition_2_to_5.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_2_to_5.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_2_to_5.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_3_to_4.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_3_to_4.png
+Saved: transition_3_to_4.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_3_to_4.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_3_to_4.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_3_to_5.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_3_to_5.png
+Saved: transition_3_to_5.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_3_to_5.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_3_to_5.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_4_to_5.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_4_to_5.png
+Saved: transition_4_to_5.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_4_to_5.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_vectors_cluster_4_to_5.csv
+Simplified transition visualization saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_zones.png
+Simplified transition visualization saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/transition_zones.png
+PCA visualization saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/pca_clusters.png
+PCA visualization saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust5/pca_clusters.png
+..... 
+.... 
+... 
+.. 
+. 
+ 
+Analysis complete!

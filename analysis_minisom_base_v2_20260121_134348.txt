@@ -1,0 +1,33 @@
+Created directory: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp
+Created directory: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp
+Available base directories: ['/home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp', '/home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp']
+🚀 Starting optimal cluster analysis...
+🔍 Running comprehensive cluster analysis...
+
+1. Running Elbow Method...
+Optimal k from wcss: 1
+
+2. Running Silhouette Analysis...
+Optimal k from silhouette: 13
+
+3. Running Gap Statistic...
+Optimal k from gap statistic: 1
+
+4. Running Calinski-Harabasz Analysis...
+Optimal k from Calinski-Harabasz: 10
+
+5. Running Davies-Bouldin Analysis...
+
+============================================================
+📊 COMPREHENSIVE CLUSTER ANALYSIS RESULTS
+============================================================
+  Silhouette          : k = 13
+  Gap                 : k = 1
+  Calinski-Harabasz   : k = 10
+  Davies-Bouldin      : k = 12
+
+🎯 CONSENSUS OPTIMAL k: 13
+
+📈 Final clustering with k=13:
+   Silhouette score: 0.247
+   Cluster sizes: [ 35 155  36  36  28  44  91  97  37 142  32  31  19]

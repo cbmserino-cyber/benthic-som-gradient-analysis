@@ -1,0 +1,10 @@
+Created directory: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp
+Created directory: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp
+Available base directories: ['/home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp', '/home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp']
+Created directory: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust4
+Created directory: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust4
+Available analysis directories: ['/home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust4', '/home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust4']
+Node cluster map shape: (29, 27)
+Should match U-Matrix: (29, 27)
+✓ U-Matrix with hits overlay saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust4/umatrix_hitmap_overlay.png
+✓ U-Matrix with hits overlay saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust4/umatrix_hitmap_overlay.png

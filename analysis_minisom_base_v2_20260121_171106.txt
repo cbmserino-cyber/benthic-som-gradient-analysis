@@ -1,0 +1,531 @@
+Created directory: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp
+Created directory: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp
+Available base directories: ['/home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp', '/home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp']
+Created directory: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6
+Created directory: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6
+Available analysis directories: ['/home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6', '/home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6']
+Node cluster map shape: (29, 27)
+Should match U-Matrix: (29, 27)
+✓ U-Matrix with hits overlay saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/umatrix_hitmap_overlay.png
+✓ U-Matrix with hits overlay saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/umatrix_hitmap_overlay.png
+✓ U-Matrix with hits overlay saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/umatrix_normalized_hitmap_overlay.png
+✓ U-Matrix with hits overlay saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/umatrix_normalized_hitmap_overlay.png
+SOM Node Cluster Map (Predicted):
+[[3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 2 2 2 2 3]
+ [3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 2 2 3 3]
+ [3 3 3 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3]
+ [3 3 3 3 1 1 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+ [3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 1 1 3 3 3 3 3 3 3 3]
+ [3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 2 2 2]
+ [3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 2 2 2 2 2]
+ [3 3 3 3 3 3 3 3 3 3 3 3 3 2 2 2 3 3 3 3 3 3 2 2 2 2 2]
+ [3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3 3 3 3 3 3 3 2 2 2 2 2]
+ [3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 2 2 2 2]
+ [1 1 1 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 3]
+ [1 1 1 1 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+ [1 1 1 1 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+ [1 1 1 1 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+ [1 1 1 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+ [1 1 1 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+ [3 3 1 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 1 3 3 3 3 3 3 3 3]
+ [3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+ [3 3 3 3 3 3 3 3 3 1 1 1 1 1 1 3 3 3 3 3 3 3 3 3 3 3 3]
+ [3 3 3 3 2 3 3 3 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 3 3 3 2]
+ [3 3 3 2 2 2 3 3 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 3 3 3 3]
+ [3 3 3 2 4 4 3 3 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 3 3 3 3]
+ [3 3 2 4 4 4 4 3 1 1 1 1 1 1 1 1 1 1 1 3 3 3 3 3 3 3 3]
+ [3 2 2 2 4 4 4 3 3 1 1 1 1 1 1 1 1 1 1 3 3 3 3 3 3 3 3]
+ [2 2 2 2 2 4 4 4 3 3 1 1 1 1 1 1 1 1 1 3 3 3 1 1 1 3 3]
+ [2 2 2 2 3 3 4 4 4 3 1 1 1 1 1 1 1 1 3 3 3 1 1 1 1 1 1]
+ [2 2 2 3 3 3 3 3 3 3 3 1 1 1 2 2 2 2 2 2 1 1 1 1 1 1 1]
+ [3 3 3 3 3 3 3 3 3 3 3 1 1 1 2 2 2 2 2 2 1 1 1 1 1 1 1]
+ [4 3 3 3 3 3 3 3 3 3 3 1 1 1 2 2 2 2 2 2 1 1 1 1 1 1 1]]
+Final DataFrame with SOM clusters saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/df2_predicted_clusters.csv
+Final DataFrame with SOM clusters saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/df2_predicted_clusters.csv
+
+Color assignments:
+  Cluster 1: RGB [31, 119, 180]
+  Cluster 2: RGB [152, 223, 138]
+  Cluster 3: RGB [140, 86, 75]
+  Cluster 4: RGB [199, 199, 199]
+✓ Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/som_node_predicted_cluster_map.png
+✓ Cluster data saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/som_node_predicted_cluster_map.npy
+✓ Cluster data saved as CSV: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/som_node_predicted_cluster_map2.csv
+✓ Color mapping saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/cluster_colors2.txt
+✓ Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/som_node_predicted_cluster_map.png
+✓ Cluster data saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/som_node_predicted_cluster_map.npy
+✓ Cluster data saved as CSV: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/som_node_predicted_cluster_map2.csv
+✓ Color mapping saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/cluster_colors2.txt
+
+==================================================
+CLUSTER STATISTICS:
+==================================================
+Total SOM nodes: 783 (29 × 27)
+
+Cluster distribution:
+  Cluster 1: 151 nodes (19.3%)
+  Cluster 2: 79 nodes (10.1%)
+  Cluster 3: 537 nodes (68.6%)
+  Cluster 4: 16 nodes (2.0%)
+
+Number of clusters found: 4
+Clusters present: [1, 2, 3, 4]
+
+SOM–KMeans Cluster Support (weighted by hit counts)
+============================================================
+Cluster   Total hits     Mean/node      Median    Core frac (>10 hits)
+1         4375           28.97          6.0       27.8%
+2         1946           24.63          6.0       34.2%
+3         4356           8.11           3.0       19.6%
+4         355            22.19          9.5       43.8%
+Neighborhood Preservation Index: 0.066
+U-Matrix saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/u_matrix.png
+U-Matrix saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/u_matrix.png
+Node cluster map shape: (29, 27)
+Should match U-Matrix: (29, 27)
+✓ U-Matrix with KMeans overlay saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/umatrix_predicted_kmeans_overlay.png
+✓ U-Matrix with KMeans overlay saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/umatrix_predicted_kmeans_overlay.png
+
+🎯 ENVIRONMENTAL ANALYSIS: manhattan
+Cluster column: predicted_Cluster
+Analyzing 0 environmental variables
+❌ No environmental variables found!
+✓ Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/som_node_cluster_map.png
+✓ Cluster data saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/som_node_cluster_map.npy
+✓ Cluster data saved as CSV: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/som_node_cluster_map.csv
+✓ Color mapping saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/cluster_colors2.txt
+✓ Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/som_node_cluster_map.png
+✓ Cluster data saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/som_node_cluster_map.npy
+✓ Cluster data saved as CSV: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/som_node_cluster_map.csv
+✓ Color mapping saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/cluster_colors2.txt
+Node cluster map shape: (29, 27)
+Should match U-Matrix: (29, 27)
+✓ U-Matrix with KMeans overlay saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/umatrix_kmeans_overlay.png
+✓ U-Matrix with KMeans overlay saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/umatrix_kmeans_overlay.png
+ARI: 0.052, NMI: 0.151
+Failed to save final DataFrame: expected str, bytes or os.PathLike object, not list
+Saved df2 with cluster info to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6
+Saved df2 with cluster info to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6
+
+🎯 ASSEMBLAGE GRADIENT ANALYSIS: PCA
+Gradient axis: PC1
+Analyzing 319 assemblage variables
+
+📊 CORRELATION RESULTS:
+          Spearman_r  p_value   abs_r   fdr_q significance
+variable                                                  
+acaenc       -0.0109   0.2524  0.0109  0.3035           ns
+acrarb       -0.2281   0.0000  0.2281  0.0000          ***
+acrbus       -0.1079   0.0000  0.1079  0.0000          ***
+acrenc       -0.1177   0.0000  0.1177  0.0000          ***
+acrtab       -0.2684   0.0000  0.2684  0.0000          ***
+...              ...      ...     ...     ...          ...
+turfol       -0.1942   0.0000  0.1942  0.0000          ***
+tursed       -0.4447   0.0000  0.4447  0.0000          ***
+xesmas       -0.0105   0.2722  0.0105  0.3174           ns
+zoaenc        0.0196   0.0398  0.0196  0.0565           ns
+zoncof        0.0044   0.6432  0.0044  0.6865           ns
+
+[95 rows x 5 columns]
+
+💪 STRONG GRADIENT DRIVERS (|r| > 0.5):
+  othcca: r = 0.548, p = 0
+  turfil: r = 0.845, p = 0
+📉 Plotting 5 strong gradient taxa
+✅ Saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6
+✅ Saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6
+Map plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spatial_clusters_taiwan_geomap.png
+Map plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spatial_clusters_taiwan_geomap.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spatial_clusters_taiwan_shmap.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spatial_clusters_taiwan_shmap.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spatial_clusters_westtaiwan_shmap.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spatial_clusters_westtaiwan_shmap.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spatial_clusters_southtaiwan_shmap.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spatial_clusters_southtaiwan_shmap.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spatial_clusters_northtaiwan_shmap.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spatial_clusters_northtaiwan_shmap.png
+Saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/richness_by_cluster.png
+Saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/richness_by_cluster.png
+Map plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/species_richness_taiwan_geomap.png
+Map plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/species_richness_taiwan_geomap.png
+Saved species richness map to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/species_richness_taiwan_shmap.png
+Saved species richness map to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/species_richness_taiwan_shmap.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/Species_overlay.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/Species_overlay.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/composition_by_cluster.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/composition_by_cluster.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/composition_by_cluster.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/composition_by_cluster.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/composition_by_cluster_top5.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/composition_by_cluster_top5.png
+
+Top 5 Categories per Cluster:
+==================================================
+Cluster 0:
+  1. Hard coral: 41.3%
+  2. Turf: 27.7%
+  3. Soft coral: 12.5%
+  4. CCA: 10.2%
+  5. Zoanthid: 0.7%
+
+Cluster 1:
+  1. Hard coral: 44.6%
+  2. Turf: 32.2%
+  3. CCA: 12.4%
+  4. Soft coral: 3.0%
+  5. Macroalgae: 1.3%
+
+Cluster 2:
+  1. Hard coral: 44.6%
+  2. Turf: 35.3%
+  3. CCA: 14.2%
+  4. Soft coral: 1.1%
+  5. Zoanthid: 0.7%
+
+Cluster 3:
+  1. Hard coral: 54.7%
+  2. Turf: 30.3%
+  3. CCA: 8.4%
+  4. Soft coral: 1.1%
+  5. Zoanthid: 0.4%
+
+Cluster 4:
+  1. Turf: 55.5%
+  2. CCA: 18.1%
+  3. Hard coral: 16.2%
+  4. Soft coral: 2.6%
+  5. Macroalgae: 0.8%
+
+Cluster 5:
+  1. Turf: 36.5%
+  2. Hard coral: 32.1%
+  3. CCA: 15.7%
+  4. Zoanthid: 10.9%
+  5. Soft coral: 0.9%
+
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/composition_by_cluster_top5_others.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/composition_by_cluster_top5_others.png
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/majorcatcompo_bars.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/majorcatcompo_bars.png
+Saved stacked bar chart to /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/majorcatcompo_bars.png
+Saved stacked bar chart to /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/majorcatcompo_bars.png
+Saved stacked bar chart to /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/majorcatcompo_bars.png
+Saved stacked bar chart to /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/majorcatcompo_bars.png
+Overlay plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/u_matrix_overlay_site.png
+Overlay plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/u_matrix_overlay_site.png
+Overlay plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/u_matrix_overlay_site_count.png
+Overlay plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/u_matrix_overlay_site_count.png
+Overlay plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/u_matrix_overlay_cluster.png
+Overlay plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/u_matrix_overlay_cluster.png
+Colored cluster overlay saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/u_matrix_kmeans_colored.png
+Colored cluster overlay saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/u_matrix_kmeans_colored.png
+Classification Report:
+              precision    recall  f1-score   support
+
+           1       1.00      0.99      1.00       207
+           2       1.00      0.82      0.90       119
+           3       1.00      1.00      1.00       172
+           4       1.00      0.99      0.99       181
+           5       0.99      1.00      0.99      2392
+           6       1.00      0.96      0.98       239
+
+    accuracy                           0.99      3310
+   macro avg       1.00      0.96      0.98      3310
+weighted avg       0.99      0.99      0.99      3310
+
+
+Visualizing results...
+confusion matrix plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/confusion_matrix.png
+confusion matrix plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/confusion_matrix.png
+Simplified node purity plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/node_purity_simplified.png
+Simplified node purity plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/node_purity_simplified.png
+Node diversity per site saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/node_diversity_per_site.png
+Node diversity per site saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/node_diversity_per_site.png
+✓ Top 15 concentrated sites plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/top_15_concentrated_sites.png
+✓ Top 15 concentrated sites plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/top_15_concentrated_sites.png
+Node diversity per site saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/node_uniques_persite.png
+Node diversity per site saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/node_uniques_persite.png
+Node diversity per site saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/node_coverage.png
+Node diversity per site saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/node_coverage.png
+✓ Top 15 spatially spread sites plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/top_15_spatially_spread_sites.png
+✓ Top 15 spatially spread sites plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/top_15_spatially_spread_sites.png
+✓ Spread vs concentration scatter plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spread_vs_concentration_scatter.png
+✓ Spread vs concentration scatter plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spread_vs_concentration_scatter.png
+✓ Spread vs clustered comparison saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spread_vs_clustered_comparison.png
+✓ Spread vs clustered comparison saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/spread_vs_clustered_comparison.png
+✓ Data files saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6
+✓ Data files saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6
+
+============================================================
+TOP 15 SPATIAL SPREAD ANALYSIS
+============================================================
+
+Top 15 Most Spatially Spread Sites:
+--------------------------------------------------
+ 1. Fenniaolin          : Spread=19.10 | Concentration=20.0% | Samples=105 | Diversity=3.08
+ 2. Dengta              : Spread=18.62 | Concentration=10.5% | Samples=105 | Diversity=3.64
+ 3. Pengjia             : Spread=18.61 | Concentration=18.9% | Samples=106 | Diversity=3.56
+ 4. Xijiyu              : Spread=18.49 | Concentration=14.3% | Samples=105 | Diversity=3.06
+ 5. Hujingyu_North      : Spread=18.37 | Concentration=18.1% | Samples=105 | Diversity=3.12
+ 6. Toujinyu            : Spread=18.03 | Concentration=11.4% | Samples=105 | Diversity=3.58
+ 7. Yayo                : Spread=17.84 | Concentration=17.1% | Samples=105 | Diversity=3.33
+ 8. Tiezhenyu_South     : Spread=17.80 | Concentration=24.8% | Samples=105 | Diversity=2.77
+ 9. Maobitou            : Spread=17.71 | Concentration=10.5% | Samples=105 | Diversity=3.74
+10. Dingbaisha          : Spread=17.71 | Concentration=13.3% | Samples=105 | Diversity=3.06
+11. Keelungyu           : Spread=17.64 | Concentration=38.1% | Samples=105 | Diversity=2.71
+12. Qixingyan           : Spread=17.63 | Concentration=37.1% | Samples=105 | Diversity=2.32
+13. Sijiaoyu            : Spread=17.48 | Concentration=17.1% | Samples=105 | Diversity=2.64
+14. Mianhua             : Spread=17.41 | Concentration=10.5% | Samples=105 | Diversity=3.82
+15. Maoyu               : Spread=17.37 | Concentration=7.6% | Samples=105 | Diversity=3.77
+
+Top 15 Most Clustered Sites:
+--------------------------------------------------
+ 1. Zhaoyang            : Spread=3.53 | Concentration=25.7% | Samples=105 | Diversity=2.16
+ 2. Jiqi                : Spread=4.09 | Concentration=19.0% | Samples=105 | Diversity=2.40
+ 3. Midaoyu             : Spread=5.59 | Concentration=45.7% | Samples=105 | Diversity=1.23
+ 4. Huaping             : Spread=6.27 | Concentration=33.3% | Samples=105 | Diversity=2.01
+ 5. Shimendong          : Spread=7.12 | Concentration=60.0% | Samples=105 | Diversity=1.26
+ 6. Guian_Harbor        : Spread=8.47 | Concentration=21.9% | Samples=105 | Diversity=2.71
+ 7. Xiaoxianglan        : Spread=8.48 | Concentration=15.2% | Samples=105 | Diversity=2.80
+ 8. Qingwan_Inner_Bay   : Spread=8.55 | Concentration=32.4% | Samples=105 | Diversity=2.60
+ 9. Shiyusan            : Spread=9.81 | Concentration=21.0% | Samples=105 | Diversity=2.75
+10. Dafu                : Spread=10.24 | Concentration=21.3% | Samples=169 | Diversity=3.02
+11. Ponpontan           : Spread=10.34 | Concentration=16.2% | Samples=105 | Diversity=2.98
+12. Zhongao_Beach       : Spread=10.36 | Concentration=21.9% | Samples=105 | Diversity=2.24
+13. Longxiadong         : Spread=11.29 | Concentration=19.4% | Samples=170 | Diversity=2.83
+14. Qimei               : Spread=11.31 | Concentration=14.0% | Samples=107 | Diversity=3.14
+15. Xiaowan             : Spread=11.74 | Concentration=16.2% | Samples=105 | Diversity=3.23
+
+INTERESTING PATTERNS:
+--------------------------------------------------
+
+• Sites with high spread BUT low concentration (<30%):
+  Fenniaolin: Spread=19.10, Concentration=20.0%
+  Dengta: Spread=18.62, Concentration=10.5%
+  Dingbaisha: Spread=17.71, Concentration=13.3%
+  Maobitou: Spread=17.71, Concentration=10.5%
+  Mianhua: Spread=17.41, Concentration=10.5%
+  Pengjia: Spread=18.61, Concentration=18.9%
+  Yayo: Spread=17.84, Concentration=17.1%
+  Hujingyu_North: Spread=18.37, Concentration=18.1%
+  Maoyu: Spread=17.37, Concentration=7.6%
+  Sijiaoyu: Spread=17.48, Concentration=17.1%
+  Tiezhenyu_South: Spread=17.80, Concentration=24.8%
+  Toujinyu: Spread=18.03, Concentration=11.4%
+  Xijiyu: Spread=18.49, Concentration=14.3%
+Node diversity per site saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/node_shannonvsunique.png
+Node diversity per site saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/node_shannonvsunique.png
+Detailed node diversity analysis saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/node_diversity_per_site.csv
+Detailed node diversity analysis saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/node_diversity_per_site.csv
+
+============================================================
+ANALYSIS COMPLETE
+============================================================
+This analysis reveals:
+• CONCENTRATED SITES: Samples cluster in few nodes (environmental homogeneity)
+• DIVERSE SITES: Samples spread across many nodes (environmental variability)
+• SPATIAL SPREAD: How widely sites' samples distribute across the SOM
+• NODE COVERAGE: Efficiency of node usage per site
+Index(['node', 'cluster', 'purity', 'entropy', 'majority_label',
+       'disagreement_rate', 'counts'],
+      dtype='object')
+     node  cluster    purity  ...  majority_label  disagreement_rate                      counts
+0  (0, 0)       14  0.857143  ...             2.0           1.000000               {2: 12, 5: 2}
+1  (0, 1)       28  0.678571  ...             2.0           1.000000         {5: 8, 2: 19, 1: 1}
+2  (0, 2)       25  0.800000  ...             2.0           1.000000               {2: 20, 5: 5}
+3  (0, 3)       52  0.557692  ...             2.0           0.980769  {5: 17, 2: 29, 1: 5, 3: 1}
+4  (0, 4)       67  0.656716  ...             5.0           1.000000        {2: 20, 5: 44, 1: 3}
+
+[5 rows x 7 columns]
+purity heatmap saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/purity_matrix.png
+purity heatmap saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/purity_matrix.png
+Global Adjusted Rand Index (ARI): 0.051769138673263486
+Global Normalized Mutual Info (NMI): 0.15090183421409656
+590 transitional nodes detected:
+         node    purity  disagreement_rate  majority_label
+0      (0, 0)  0.857143           1.000000             2.0
+1      (0, 1)  0.678571           1.000000             2.0
+2      (0, 2)  0.800000           1.000000             2.0
+3      (0, 3)  0.557692           0.980769             2.0
+4      (0, 4)  0.656716           1.000000             5.0
+..        ...       ...                ...             ...
+778  (28, 22)  0.886792           1.000000             1.0
+779  (28, 23)  0.714286           1.000000             1.0
+780  (28, 24)  0.896104           1.000000             1.0
+781  (28, 25)  0.979021           1.000000             1.0
+782  (28, 26)  0.555556           1.000000             1.0
+
+[590 rows x 4 columns]
+Plot saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/between_node_distance.png
+Plot saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/between_node_distance.png
+
+📊 CLUSTER COMPOSITION BY MAJOR CATEGORIES
+✓ Cluster composition saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6
+✓ Cluster composition saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6
+
+🔍 IDENTIFYING SIGNATURE SPECIES PER CLUSTER
+
+📈 Analyzing Cluster 1:
+   Size: 689 samples
+   Total abundance: 0.94
+   🎯 Most enriched species (enrichment score):
+      turfol               (Hard coral               ): 14.34x
+      acrarb               (Hard coral               ): 13.06x
+      ascere               (Ascidian                 ): 11.28x
+      claclu               (Soft coral               ): 10.82x
+      litbus               (Soft coral               ): 9.75x
+   📊 Most abundant species (absolute mean):
+      acrarb               (Hard coral               ): 0.154
+      tursed               (Turf                     ): 0.142
+      turfil               (Turf                     ): 0.134
+      turfol               (Hard coral               ): 0.090
+      claclu               (Soft coral               ): 0.068
+
+📈 Analyzing Cluster 2:
+   Size: 398 samples
+   Total abundance: 0.96
+   🎯 Most enriched species (enrichment score):
+      helbus               (Hard coral               ): 16.72x
+      serbus               (Hard coral               ): 14.86x
+      milenc               (Hard coral               ): 12.32x
+      ascclu               (Ascidian                 ): 10.72x
+      sarmas               (Soft coral               ): 9.17x
+   📊 Most abundant species (absolute mean):
+      turfil               (Turf                     ): 0.238
+      helbus               (Hard coral               ): 0.146
+      milenc               (Hard coral               ): 0.086
+      tursed               (Turf                     ): 0.083
+      othcca               (CCA                      ): 0.071
+
+📈 Analyzing Cluster 3:
+   Size: 573 samples
+   Total abundance: 0.97
+   🎯 Most enriched species (enrichment score):
+      pocbus               (Hard coral               ): 10.61x
+      atrenc               (Hard coral               ): 6.59x
+      stybus               (Hard coral               ): 5.71x
+      ispcol               (Hard coral               ): 4.85x
+      potcol               (Hard coral               ): 2.60x
+   📊 Most abundant species (absolute mean):
+      turfil               (Turf                     ): 0.271
+      pocbus               (Hard coral               ): 0.207
+      othcca               (CCA                      ): 0.090
+      tursed               (Turf                     ): 0.081
+      pescca               (CCA                      ): 0.052
+
+📈 Analyzing Cluster 4:
+   Size: 602 samples
+   Total abundance: 0.95
+   🎯 Most enriched species (enrichment score):
+      monfol               (Hard coral               ): 13.21x
+      symenc               (Hard coral               ): 11.47x
+      ecofol               (Hard coral               ): 10.07x
+      ecoenc               (Hard coral               ): 8.73x
+      ispcol               (Hard coral               ): 6.78x
+   📊 Most abundant species (absolute mean):
+      monfol               (Hard coral               ): 0.215
+      turfil               (Turf                     ): 0.162
+      tursed               (Turf                     ): 0.140
+      monenc               (Hard coral               ): 0.089
+      ecofol               (Hard coral               ): 0.086
+
+📈 Analyzing Cluster 5:
+   Size: 7974 samples
+   Total abundance: 0.95
+   🎯 Most enriched species (enrichment score):
+      zoncof               (Macroalgae               ): 1.38x
+      neucom               (Macroalgae               ): 1.38x
+      mesart               (Macroalgae               ): 1.36x
+      padcof               (Macroalgae               ): 1.33x
+      redcof               (Macroalgae               ): 1.32x
+   📊 Most abundant species (absolute mean):
+      turfil               (Turf                     ): 0.379
+      tursed               (Turf                     ): 0.175
+      othcca               (CCA                      ): 0.100
+      pescca               (CCA                      ): 0.081
+      monenc               (Hard coral               ): 0.036
+
+📈 Analyzing Cluster 6:
+   Size: 796 samples
+   Total abundance: 0.97
+   🎯 Most enriched species (enrichment score):
+      palmas               (Zoanthid                 ): 10.80x
+      palenc               (Zoanthid                 ): 8.48x
+      plaenc               (Hard coral               ): 7.22x
+      faienc               (Hard coral               ): 6.84x
+      dipmas               (Hard coral               ): 6.66x
+   📊 Most abundant species (absolute mean):
+      turfil               (Turf                     ): 0.256
+      tursed               (Turf                     ): 0.109
+      faienc               (Hard coral               ): 0.093
+      othcca               (CCA                      ): 0.092
+      pescca               (CCA                      ): 0.066
+✓ Signature species analysis saved: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6
+✓ Signature species analysis saved: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_1_to_2.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_1_to_2.png
+Saved: transition_1_to_2.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_1_to_2.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_1_to_2.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_1_to_3.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_1_to_3.png
+Saved: transition_1_to_3.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_1_to_3.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_1_to_3.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_1_to_4.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_1_to_4.png
+Saved: transition_1_to_4.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_1_to_4.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_1_to_4.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_1_to_5.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_1_to_5.png
+Saved: transition_1_to_5.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_1_to_5.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_1_to_5.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_1_to_6.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_1_to_6.png
+Saved: transition_1_to_6.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_1_to_6.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_1_to_6.csv
+No transition samples between Cluster 1 and 7
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_2_to_3.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_2_to_3.png
+Saved: transition_2_to_3.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_2_to_3.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_2_to_3.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_2_to_5.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_2_to_5.png
+Saved: transition_2_to_5.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_2_to_5.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_2_to_5.csv
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_2_to_6.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_2_to_6.png
+Saved: transition_2_to_6.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_2_to_6.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_2_to_6.csv
+No transition samples between Cluster 2 and 7
+No transition samples between Cluster 3 and 4
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_3_to_6.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_3_to_6.png
+Saved: transition_3_to_6.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_3_to_6.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_3_to_6.csv
+No transition samples between Cluster 3 and 7
+Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_4_to_5.png
+Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_4_to_5.png
+Saved: transition_4_to_5.png
+Transition vectors saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_4_to_5.csv
+Transition vectors saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_vectors_cluster_4_to_5.csv
+No transition samples between Cluster 5 and 7
+No transition samples between Cluster 6 and 7
+Simplified transition visualization saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_zones.png
+Simplified transition visualization saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/transition_zones.png
+PCA visualization saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/pca_clusters.png
+PCA visualization saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/manhattan_som_sp/nclust6/pca_clusters.png
+..... 
+.... 
+... 
+.. 
+. 
+ 
+Analysis complete!

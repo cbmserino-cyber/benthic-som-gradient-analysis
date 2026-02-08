@@ -1,0 +1,398 @@
+Created directory: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp
+Created directory: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp
+Available base directories: ['/home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp', '/home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp']
+Created directory: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5
+Created directory: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5
+Available analysis directories: ['/home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5', '/home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5']
+SOM Node Cluster Map (Predicted):
+[[4 4 4 4 5 5 5 5 5 2 2 2 2 2 2 1 1 1 1 1 1 1 2 2 2 5 5]
+ [4 4 4 3 3 3 5 5 2 2 2 2 2 2 2 1 1 1 1 1 1 1 2 2 2 2 2]
+ [4 4 4 3 3 3 5 2 2 2 2 2 2 2 2 1 1 1 1 1 1 2 2 2 2 2 2]
+ [4 3 3 3 3 3 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 2 2 2 2 2 2]
+ [3 3 3 3 3 3 2 2 2 2 2 2 2 2 2 1 1 2 1 1 1 2 2 1 2 2 2]
+ [3 3 3 3 3 3 2 1 1 1 2 2 2 2 1 1 1 2 2 2 1 1 1 2 3 3 3]
+ [3 3 3 3 3 3 1 1 1 1 1 2 2 1 1 1 1 2 2 2 2 1 1 2 3 3 3]
+ [3 3 3 3 3 3 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 1 1 2 3 3]
+ [3 3 3 3 3 3 3 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 1 1 2 2 2]
+ [3 3 3 3 3 3 3 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 1 1 2 2 2]
+ [3 3 3 3 3 3 3 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+ [3 3 3 3 3 3 3 3 2 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3]
+ [3 3 3 3 3 3 3 3 2 2 2 2 2 2 2 2 2 2 2 3 3 2 2 2 2 3 3]
+ [3 3 3 3 3 3 3 3 2 2 2 2 2 2 2 2 2 2 3 3 3 3 2 2 2 3 3]
+ [3 3 3 3 3 3 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 2 2 2 3 3]
+ [3 3 3 3 1 1 2 2 1 1 1 2 2 2 2 2 2 3 3 3 3 3 2 2 2 2 2]
+ [3 3 1 1 1 1 1 1 1 1 1 1 1 1 2 2 3 3 3 3 3 3 3 2 2 2 2]
+ [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 3 3 3 3 3 3 2 2 2 2]
+ [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 3 3 3 3 3 2 2 2 2 2]
+ [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2]
+ [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2]
+ [1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 1]
+ [1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+ [1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+ [1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+ [1 1 1 1 1 1 1 1 1 1 1 2 2 2 1 1 1 2 2 1 1 2 2 2 2 2 2]
+ [1 1 1 1 1 1 1 1 1 1 2 2 2 2 1 1 1 1 1 1 1 1 2 2 2 2 2]
+ [1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 2 2 2 2]
+ [1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 2 2 2 2]]
+Final DataFrame with SOM clusters saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/df2_predicted_clusters.csv
+Final DataFrame with SOM clusters saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/df2_predicted_clusters.csv
+
+Color assignments:
+  Cluster 1: RGB [31, 119, 180]
+  Cluster 2: RGB [152, 223, 138]
+  Cluster 3: RGB [140, 86, 75]
+  Cluster 4: RGB [199, 199, 199]
+  Cluster 5: RGB [158, 218, 229]
+✓ Plot saved successfully to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/som_node_cluster_map2.png
+✓ Cluster data saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/som_node_cluster_map2.npy
+✓ Cluster data saved as CSV: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/som_node_cluster_map2.csv
+✓ Color mapping saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/cluster_colors2.txt
+✓ Plot saved successfully to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/som_node_cluster_map2.png
+✓ Cluster data saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/som_node_cluster_map2.npy
+✓ Cluster data saved as CSV: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/som_node_cluster_map2.csv
+✓ Color mapping saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/cluster_colors2.txt
+
+==================================================
+CLUSTER STATISTICS:
+==================================================
+Total SOM nodes: 783 (29 × 27)
+
+Cluster distribution:
+  Cluster 1: 279 nodes (35.6%)
+  Cluster 2: 343 nodes (43.8%)
+  Cluster 3: 140 nodes (17.9%)
+  Cluster 4: 11 nodes (1.4%)
+  Cluster 5: 10 nodes (1.3%)
+
+Number of clusters found: 5
+Clusters present: [1, 2, 3, 4, 5]
+
+SOM–KMeans Cluster Support (weighted by hit counts)
+============================================================
+Cluster   Total hits     Mean/node      Median    Core frac (>10 hits)
+1         4185           15.00          13.0      64.9%
+2         4368           12.73          11.0      55.1%
+3         2067           14.76          13.0      60.0%
+4         221            20.09          14.0      81.8%
+5         191            19.10          14.0      100.0%
+Neighborhood Preservation Index: 0.127
+U-Matrix saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/u_matrix.png
+U-Matrix saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/u_matrix.png
+Component plane for acaenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acaenc.png
+Component plane for acaenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acaenc.png
+Component plane for acamas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acamas.png
+Component plane for acamas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acamas.png
+Component plane for acoenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acoenc.png
+Component plane for acoenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acoenc.png
+Component plane for acomas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acomas.png
+Component plane for acomas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acomas.png
+Component plane for acrarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acrarb.png
+Component plane for acrarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acrarb.png
+Component plane for acrbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acrbus.png
+Component plane for acrbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acrbus.png
+Component plane for acrenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acrenc.png
+Component plane for acrenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acrenc.png
+Component plane for acrtab saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acrtab.png
+Component plane for acrtab saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_acrtab.png
+Component plane for actfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_actfan.png
+Component plane for actfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_actfan.png
+Component plane for alcarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_alcarb.png
+Component plane for alcarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_alcarb.png
+Component plane for alcbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_alcbus.png
+Component plane for alcbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_alcbus.png
+Component plane for alcfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_alcfan.png
+Component plane for alcfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_alcfan.png
+Component plane for algunk1 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_algunk1.png
+Component plane for algunk1 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_algunk1.png
+Component plane for algunk2 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_algunk2.png
+Component plane for algunk2 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_algunk2.png
+Component plane for alvenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_alvenc.png
+Component plane for alvenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_alvenc.png
+Component plane for alvmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_alvmas.png
+Component plane for alvmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_alvmas.png
+Component plane for ampart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ampart.png
+Component plane for ampart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ampart.png
+Component plane for ampenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ampenc.png
+Component plane for ampenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ampenc.png
+Component plane for anabus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_anabus.png
+Component plane for anabus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_anabus.png
+Component plane for anefan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_anefan.png
+Component plane for anefan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_anefan.png
+Component plane for antarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antarb.png
+Component plane for antarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antarb.png
+Component plane for antarb1 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antarb1.png
+Component plane for antarb1 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antarb1.png
+Component plane for antarb2 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antarb2.png
+Component plane for antarb2 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antarb2.png
+Component plane for antbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antbus.png
+Component plane for antbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antbus.png
+Component plane for antbus1 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antbus1.png
+Component plane for antbus1 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antbus1.png
+Component plane for antbus2 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antbus2.png
+Component plane for antbus2 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antbus2.png
+Component plane for antclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antclu.png
+Component plane for antclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antclu.png
+Component plane for antfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antfan.png
+Component plane for antfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antfan.png
+Component plane for antwhi saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antwhi.png
+Component plane for antwhi saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_antwhi.png
+Component plane for aphcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_aphcom.png
+Component plane for aphcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_aphcom.png
+Component plane for ascclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ascclu.png
+Component plane for ascclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ascclu.png
+Component plane for ascenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ascenc.png
+Component plane for ascenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ascenc.png
+Component plane for ascere saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ascere.png
+Component plane for ascere saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ascere.png
+Component plane for aspcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_aspcom.png
+Component plane for aspcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_aspcom.png
+Component plane for astclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_astclu.png
+Component plane for astclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_astclu.png
+Component plane for astenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_astenc.png
+Component plane for astenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_astenc.png
+Component plane for astfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_astfan.png
+Component plane for astfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_astfan.png
+Component plane for astfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_astfol.png
+Component plane for astfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_astfol.png
+Component plane for astmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_astmas.png
+Component plane for astmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_astmas.png
+Component plane for astoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_astoth.png
+Component plane for astoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_astoth.png
+Component plane for atrenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_atrenc.png
+Component plane for atrenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_atrenc.png
+Component plane for atrmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_atrmas.png
+Component plane for atrmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_atrmas.png
+Component plane for bebbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_bebbus.png
+Component plane for bebbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_bebbus.png
+Component plane for bebfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_bebfan.png
+Component plane for bebfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_bebfan.png
+Component plane for bivoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_bivoth.png
+Component plane for bivoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_bivoth.png
+Component plane for brienc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_brienc.png
+Component plane for brienc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_brienc.png
+Component plane for brocof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_brocof.png
+Component plane for brocof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_brocof.png
+Component plane for brybus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_brybus.png
+Component plane for brybus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_brybus.png
+Component plane for bryenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_bryenc.png
+Component plane for bryenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_bryenc.png
+Component plane for brymas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_brymas.png
+Component plane for brymas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_brymas.png
+Component plane for caebus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_caebus.png
+Component plane for caebus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_caebus.png
+Component plane for camoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_camoth.png
+Component plane for camoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_camoth.png
+Component plane for capbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_capbus.png
+Component plane for capbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_capbus.png
+Component plane for carbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_carbus.png
+Component plane for carbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_carbus.png
+Component plane for caulcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_caulcom.png
+Component plane for caulcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_caulcom.png
+Component plane for caumas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_caumas.png
+Component plane for caumas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_caumas.png
+Component plane for ceralg saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ceralg.png
+Component plane for ceralg saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ceralg.png
+Component plane for chacom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_chacom.png
+Component plane for chacom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_chacom.png
+Component plane for chdfil saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_chdfil.png
+Component plane for chdfil saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_chdfil.png
+Component plane for chibus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_chibus.png
+Component plane for chibus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_chibus.png
+Component plane for chlfol1 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_chlfol1.png
+Component plane for chlfol1 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_chlfol1.png
+Component plane for chocom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_chocom.png
+Component plane for chocom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_chocom.png
+Component plane for claclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_claclu.png
+Component plane for claclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_claclu.png
+Component plane for clienc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_clienc.png
+Component plane for clienc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_clienc.png
+Component plane for clvclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_clvclu.png
+Component plane for clvclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_clvclu.png
+Component plane for codcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_codcom.png
+Component plane for codcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_codcom.png
+Component plane for coearb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_coearb.png
+Component plane for coearb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_coearb.png
+Component plane for coeenc2 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_coeenc2.png
+Component plane for coeenc2 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_coeenc2.png
+Component plane for coemas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_coemas.png
+Component plane for coemas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_coemas.png
+Component plane for conbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_conbus.png
+Component plane for conbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_conbus.png
+Component plane for conenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_conenc.png
+Component plane for conenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_conenc.png
+Component plane for corenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_corenc.png
+Component plane for corenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_corenc.png
+Component plane for corenc1 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_corenc1.png
+Component plane for corenc1 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_corenc1.png
+Component plane for corenc2 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_corenc2.png
+Component plane for corenc2 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_corenc2.png
+Component plane for corenc3 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_corenc3.png
+Component plane for corenc3 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_corenc3.png
+Component plane for corenc4 saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_corenc4.png
+Component plane for corenc4 saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_corenc4.png
+Component plane for cosenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cosenc.png
+Component plane for cosenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cosenc.png
+Component plane for cosmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cosmas.png
+Component plane for cosmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cosmas.png
+Component plane for crioth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_crioth.png
+Component plane for crioth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_crioth.png
+Component plane for culnov saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_culnov.png
+Component plane for culnov saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_culnov.png
+Component plane for cyafil saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cyafil.png
+Component plane for cyafil saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cyafil.png
+Component plane for cycenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cycenc.png
+Component plane for cycenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cycenc.png
+Component plane for cycmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cycmas.png
+Component plane for cycmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cycmas.png
+Component plane for cypenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cypenc.png
+Component plane for cypenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cypenc.png
+Component plane for cypmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cypmas.png
+Component plane for cypmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cypmas.png
+Component plane for cytbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cytbus.png
+Component plane for cytbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_cytbus.png
+Component plane for delcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_delcom.png
+Component plane for delcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_delcom.png
+Component plane for denbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_denbus.png
+Component plane for denbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_denbus.png
+Component plane for diaoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_diaoth.png
+Component plane for diaoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_diaoth.png
+Component plane for diccof saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_diccof.png
+Component plane for diccof saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_diccof.png
+Component plane for dicspha saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_dicspha.png
+Component plane for dicspha saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_dicspha.png
+Component plane for didclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_didclu.png
+Component plane for didclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_didclu.png
+Component plane for didenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_didenc.png
+Component plane for didenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_didenc.png
+Component plane for didere saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_didere.png
+Component plane for didere saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_didere.png
+Component plane for dilmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_dilmas.png
+Component plane for dilmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_dilmas.png
+Component plane for dioart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_dioart.png
+Component plane for dioart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_dioart.png
+Component plane for dipenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_dipenc.png
+Component plane for dipenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_dipenc.png
+Component plane for dipmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_dipmas.png
+Component plane for dipmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_dipmas.png
+Component plane for disenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_disenc.png
+Component plane for disenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_disenc.png
+Component plane for ditfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ditfol.png
+Component plane for ditfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ditfol.png
+Component plane for dudcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_dudcom.png
+Component plane for dudcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_dudcom.png
+Component plane for echenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_echenc.png
+Component plane for echenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_echenc.png
+Component plane for echmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_echmas.png
+Component plane for echmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_echmas.png
+Component plane for echoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_echoth.png
+Component plane for echoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_echoth.png
+Component plane for ecoenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ecoenc.png
+Component plane for ecoenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ecoenc.png
+Component plane for ecofol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ecofol.png
+Component plane for ecofol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ecofol.png
+Component plane for effclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_effclu.png
+Component plane for effclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_effclu.png
+Component plane for ellarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ellarb.png
+Component plane for ellarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ellarb.png
+Component plane for entenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_entenc.png
+Component plane for entenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_entenc.png
+Component plane for epiarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_epiarb.png
+Component plane for epiarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_epiarb.png
+Component plane for euccom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_euccom.png
+Component plane for euccom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_euccom.png
+Component plane for euparb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_euparb.png
+Component plane for euparb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_euparb.png
+Component plane for eupfan saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_eupfan.png
+Component plane for eupfan saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_eupfan.png
+Component plane for eupmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_eupmas.png
+Component plane for eupmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_eupmas.png
+Component plane for faienc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_faienc.png
+Component plane for faienc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_faienc.png
+Component plane for faimas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_faimas.png
+Component plane for faimas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_faimas.png
+Component plane for fimmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_fimmas.png
+Component plane for fimmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_fimmas.png
+Component plane for foroth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_foroth.png
+Component plane for foroth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_foroth.png
+Component plane for funmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_funmas.png
+Component plane for funmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_funmas.png
+Component plane for galenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_galenc.png
+Component plane for galenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_galenc.png
+Component plane for galmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_galmas.png
+Component plane for galmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_galmas.png
+Component plane for garenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_garenc.png
+Component plane for garenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_garenc.png
+Component plane for garmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_garmas.png
+Component plane for garmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_garmas.png
+Component plane for gasoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gasoth.png
+Component plane for gasoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gasoth.png
+Component plane for glaart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_glaart.png
+Component plane for glaart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_glaart.png
+Component plane for gnicol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gnicol.png
+Component plane for gnicol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gnicol.png
+Component plane for gnienc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gnienc.png
+Component plane for gnienc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gnienc.png
+Component plane for gnimas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gnimas.png
+Component plane for gnimas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gnimas.png
+Component plane for gonenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gonenc.png
+Component plane for gonenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gonenc.png
+Component plane for gonmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gonmas.png
+Component plane for gonmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gonmas.png
+Component plane for gracom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gracom.png
+Component plane for gracom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_gracom.png
+Component plane for hacenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hacenc.png
+Component plane for hacenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hacenc.png
+Component plane for halart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_halart.png
+Component plane for halart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_halart.png
+Component plane for halova saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_halova.png
+Component plane for halova saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_halova.png
+Component plane for helbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_helbus.png
+Component plane for helbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_helbus.png
+Component plane for helenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_helenc.png
+Component plane for helenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_helenc.png
+Component plane for hemoth saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hemoth.png
+Component plane for hemoth saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hemoth.png
+Component plane for hetclu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hetclu.png
+Component plane for hetclu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hetclu.png
+Component plane for hetenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hetenc.png
+Component plane for hetenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hetenc.png
+Component plane for hicbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hicbus.png
+Component plane for hicbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hicbus.png
+Component plane for hlmfol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hlmfol.png
+Component plane for hlmfol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hlmfol.png
+Component plane for holospp saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_holospp.png
+Component plane for holospp saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_holospp.png
+Component plane for hydarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hydarb.png
+Component plane for hydarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hydarb.png
+Component plane for hydbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hydbus.png
+Component plane for hydbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hydbus.png
+Component plane for hydcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hydcom.png
+Component plane for hydcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hydcom.png
+Component plane for hydenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hydenc.png
+Component plane for hydenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hydenc.png
+Component plane for hydmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hydmas.png
+Component plane for hydmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hydmas.png
+Component plane for hypcom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hypcom.png
+Component plane for hypcom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hypcom.png
+Component plane for hyrarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hyrarb.png
+Component plane for hyrarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hyrarb.png
+Component plane for hyrbus saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hyrbus.png
+Component plane for hyrbus saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hyrbus.png
+Component plane for hyrplu saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hyrplu.png
+Component plane for hyrplu saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_hyrplu.png
+Component plane for isiarb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_isiarb.png
+Component plane for isiarb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_isiarb.png
+Component plane for isparb saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_isparb.png
+Component plane for isparb saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_isparb.png
+Component plane for ispcol saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ispcol.png
+Component plane for ispcol saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ispcol.png
+Component plane for ispenc saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ispenc.png
+Component plane for ispenc saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ispenc.png
+Component plane for ispmas saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ispmas.png
+Component plane for ispmas saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_ispmas.png
+Component plane for janart saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_janart.png
+Component plane for janart saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_janart.png
+Component plane for junwhi saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_junwhi.png
+Component plane for junwhi saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_junwhi.png
+Component plane for laucom saved to: /home/bernard/Dropbox/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_laucom.png
+Component plane for laucom saved to: /home/bernard/cbmserino/IMEE/marine_som/2phase/144000iter/29x27/euclidean_som_sp/nclust5/component_plane_laucom.png
