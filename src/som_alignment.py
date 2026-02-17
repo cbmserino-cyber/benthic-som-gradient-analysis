@@ -319,7 +319,7 @@ def analyze_node_diversity_per_site(som, df, site_col='site'):
     return site_stats, site_node_mapping
 
 
-# First call the function to get site_stats
+# get site_stats
 site_stats, site_node_mapping = analyze_node_diversity_per_site(som, df2, site_col='site')
 
 
@@ -347,7 +347,7 @@ def prepare_plot_df(site_stats):
     return plot_df, notable_sites
 
 
-# Now prepare the plot data
+# plot data
 plot_df, notable_sites = prepare_plot_df(site_stats)
 
 
@@ -460,7 +460,6 @@ def plot_node_diversity_per_site(site_stats):
     plt.close()
 
 
-# Now call the plotting function
 plot_node_diversity_per_site(site_stats)
 
 
@@ -508,7 +507,7 @@ fig, ax = plt.subplots(figsize=(10, 6))
 # Sort for plotting
 top_sites_sorted = top_sites_df.sort_values('dominant_node_pct')
 bars = ax.barh(range(len(top_sites_sorted)), top_sites_sorted['dominant_node_pct'])
-# Color gradient from red (high concentration) to orange
+# Color gradient
 colors = plt.cm.Reds(np.linspace(0.6, 0.9, len(top_sites_sorted)))
 for i, bar in enumerate(bars):
     bar.set_color(colors[i])
@@ -1659,4 +1658,5 @@ def plot_species_environment_correlation(bmu_species_avg, bmu_env_avg, species_l
     return correlations
 
 # ~ plot_species_environment_correlation(bmu_sp_avg, bmu_env_avg, sp_vars, env_vars, threshold=0.5)
+
 
