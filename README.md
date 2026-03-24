@@ -11,7 +11,7 @@ This repository contains the full analysis pipeline used to characterize benthic
 - Sample metadata (site / transect / depth / coordinates)
 - Environmental drivers to be added for future integration
 
-**Core Outputs**
+**Outputs**
 - Manhattan SOM (trained on standardized benthic cover)
 - SOM-derived community states (k-means on node prototypes)
 - U-matrix and cluster maps (SOM space)
@@ -21,7 +21,7 @@ This repository contains the full analysis pipeline used to characterize benthic
 
 ---
 
-## 2) Repository Structure (recommended)
+## 2) Repo structure
 
 ```text
 .
