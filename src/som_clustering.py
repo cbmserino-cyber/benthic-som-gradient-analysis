@@ -908,7 +908,7 @@ som_env = sp_gradient_analysis(
 #-----------------------------------------------------------------------
 # Spatial visualization
 # ----------------------------------------------------------------------
-# Method 1: Using GeoPandas with natural earth data
+# Method 1: GeoPandas with natural earth data
 import geopandas as gpd
 import contextily as ctx
 from shapely.geometry import Point
@@ -916,15 +916,15 @@ from shapely.geometry import Point
 try:
     fig, ax = plt.subplots(figsize=(12, 8))
 
-    # create a GeoDataFrame from points
+    # GeoDataFrame from points
     geometry = [Point(xy) for xy in zip(df2['longitude'], df2['latitude'])]
     gdf = gpd.GeoDataFrame(df2, geometry=geometry, crs="EPSG:4326")
 
-    # plot the points - using your custom colors instead of 'tab20'
+    # plot the points
     ax = gdf.plot(column='SOM_Cluster', categorical=True, 
                   legend=True, ax=ax,
                   markersize=100, alpha=0.8, 
-                  cmap=discrete_tab20, edgecolor='black', linewidth=0.5)  # Use your custom colormap
+                  cmap=discrete_tab20, edgecolor='black', linewidth=0.5)
 
     # add basemap
     ctx.add_basemap(ax, crs=gdf.crs, source=ctx.providers.OpenStreetMap.Mapnik)
