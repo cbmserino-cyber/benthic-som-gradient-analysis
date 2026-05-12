@@ -1,6 +1,6 @@
 ## =========================
 ## Objective: Train a SOM using benthic cover (not per site) to uncover gradients in composition space
-## Output: U-Matrix, component planes, node clustering (KMeans)
+## Output: som (npy)
 ## Input features: benthic cover data
 ## =========================
 
