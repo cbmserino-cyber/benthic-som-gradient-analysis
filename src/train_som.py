@@ -1,8 +1,8 @@
-## =====================================================================
+## =========================
 ## Objective: Train a SOM using benthic cover (not per site) to uncover gradients in composition space
 ## Output: U-Matrix, component planes, node clustering (KMeans)
 ## Input features: benthic cover data
-## =====================================================================
+## =========================
 
 import os
 import pandas as pd
@@ -39,9 +39,9 @@ def load_data(filepath):
     
     return df
 
-# ----------------------------------------------------------------------
+# --------------------------
 # base path
-#----------------------------------------------------------------------
+#---------------------------
 base_paths = {
     "driver": "/home/bernard/cbmserino/IMEE/marine_som",
     "pc": "/home/bernard/Documents/class3/marine_som",
@@ -62,9 +62,9 @@ df1 = load_dataset(base_paths["dropbox"], files["df1"])
 df2 = load_dataset(base_paths["dropbox"], files["df2"])
 df3 = load_dataset(base_paths["dropbox"], files["df3"])
 
-# ----------------------------------------------------------------------
+# --------------------------
 # result save path
-#-----------------------------------------------------------------------
+#---------------------------
 save_paths = [
     "/home/bernard/Documents/class3/marine_som_results/",
     "/home/bernard/Dropbox/IMEE/marine_som",
@@ -104,9 +104,9 @@ result_dirs = make_save_dirs(
 print("Available save directories:", result_dirs)
 
 
-# ----------------------------------------------------------------------
+# --------------------------
 # feature selection
-# ----------------------------------------------------------------------
+# --------------------------
 '''define groups'''
 env_vars = ['Mean_SST', 'SD_SST', 'Light_intensity', 'Wave_exposure', 'Wave_height', 'Mean_chl_a', 'SD_chl_a', 'Nitrate', 'Nitrite', 'Phosphate', 'DHW', 'DHW_recovery', 'Typhoon_disturbance', 'Typhoon_recovery', 'Typhoon_frequency', 'Anthropogenic_land_use', 'Forest_land_use', 'Population_density', 'Tourist_visitors', 'Unstable_substrate_cover']
 
@@ -135,9 +135,9 @@ sp_vars = [col for col in df1.columns if col not in chem_vars + major_cats + kme
 variables_of_interest = sp_vars
 
 '''
-# ----------------------------------------------------------------------
+# --------------------------
 # Data preprocessing
-# ----------------------------------------------------------------------
+# --------------------------
 def preprocess_data(df, features):
     X = df[features].fillna(0)
     
@@ -151,14 +151,14 @@ def preprocess_data(df, features):
     
     return X_scaled, scaler
 
-# -------------------------+
-# scale feature to train   |
-# -------------------------+
+# -------------------------
+# scale feature to train   
+# -------------------------
 X_scaled, scaler = preprocess_data(df1, variables_of_interest)'''
 
-# ---------------------------------------------------------------------+
-# Hellinger transformation                                             |
-# ---------------------------------------------------------------------+
+# -------------------------
+# Hellinger transformation
+# -------------------------
 def hellinger_transform(df, features):
     X = df[features].fillna(0).values.astype(float)
     
@@ -172,14 +172,14 @@ def hellinger_transform(df, features):
     
     return X_hel
 
-# -------------------------+
-# transform features       |
-# -------------------------+
+# ------------------------
+# transform features     
+# ------------------------
 X_hel = hellinger_transform(df2, variables_of_interest)
 
-# --------------------+
-# Optimized dimension | 
-# --------------------+
+# --------------------
+# Optimized dimension  
+# --------------------
 def recommend_iterations(data_size, som_size):
     """Recommend iterations based on data and SOM size"""
     base_iterations = data_size * 2  # 2 epochs minimum
@@ -196,9 +196,9 @@ som_size = 20  # dimenstion
 recommended = recommend_iterations(data_size, som_size)
 print(f"Recommended iterations: {recommended}")
 
-# ----------------------------------------------------------------------
+# --------------------------
 # save trained SOM
-# ----------------------------------------------------------------------
+# --------------------------
 def save_som_data(som, X_hel, result_dirs):
     if not result_dirs:
         print("No valid result directories provided.")
@@ -233,9 +233,9 @@ def save_som_data(som, X_hel, result_dirs):
     return saved_files
     
 '''
-# ----------------------------------------------------------------------
+# --------------------------
 # Training (one phase)
-# ----------------------------------------------------------------------
+# --------------------------
 np.random.seed(42)
 random.seed(42)
 
@@ -271,9 +271,9 @@ weights_run1 = som.get_weights().copy() # retraining (twice) to compare final we
 weights_run2 = som.get_weights().copy() # reset and retrain
 print(f"Weights identical: {np.array_equal(weights_run1, weights_run2)}") # compare final weights
 '''
-# ----------------------------------------------------------------------
+# --------------------------
 # Training (Vesanto & Alhoniemi (2000), two-phase)
-# ----------------------------------------------------------------------
+# --------------------------
 som_dim = (29,27)
 input_len = X_hel.shape[1]
 
@@ -313,9 +313,9 @@ print("TWO PHASE: Training complete (Vesanto & Alhoniemi, 2000).")
 
 save_som_data(som, X_hel, result_dirs)
 
-# ----------------------------------------------------------------------
+# --------------------------
 # Save BMU locations and scaled data
-# ----------------------------------------------------------------------
+# --------------------------
 def save_som_data_cosine(som, X_hel, result_dirs):
     if not result_dirs:
         print("No valid result directories provided.")
@@ -351,9 +351,9 @@ def save_som_data_cosine(som, X_hel, result_dirs):
 
 save_som_data_cosine(som, X_hel, result_dirs)
 
-# ----------------------------------------------------------------------
+# --------------------------
 # Save model
-# ----------------------------------------------------------------------
+# --------------------------
 for path in result_dirs:
     try:
         model_save_path = os.path.join(path, "cosine_sp_20x20.pkl")
@@ -370,9 +370,9 @@ for path in result_dirs:
     except Exception as e:
         print(f"❌ Error saving model to {path}: {e}")
 
-# ----------------------------------------------------------------------
+# --------------------------
 # Load saved BMU locations and scaled data for species overlay
-# ----------------------------------------------------------------------
+# --------------------------
 try:
     bmu_locations = np.load(os.path.join(result_dirs[0], "bmu_locations.npy"))
 except Exception as e:
@@ -395,9 +395,9 @@ try:
 except Exception as e:
     print(f"Error loading scaled data: {str(e)}")
     
-# ----------------------------------------------------------------------
+# --------------------------
 # Compute BMU-wise averages
-# ----------------------------------------------------------------------
+# --------------------------
 def compute_bmu_averages(df, X_hel, som, sp_vars):
     n_nodes_x, n_nodes_y = som._weights.shape[:2]
     bmu_species = np.zeros((n_nodes_x, n_nodes_y, len(sp_vars)))
@@ -426,9 +426,9 @@ def compute_bmu_averages(df, X_hel, som, sp_vars):
 
 bmu_sp_avg = compute_bmu_averages(df1, X_hel, som, sp_vars)
 
-# ----------------------------------------------------------------------
+# --------------------------
 # Optimal Number of KMeans Clusters for SOM Nodes - WCSS (Elbow), Silhouette, and DBI for SOM node clustering across K=2–15
-# ----------------------------------------------------------------------
+# --------------------------
 
 import numpy as np
 import pandas as pd
@@ -509,9 +509,9 @@ for path in result_dirs:
 
 plt.show()
 
-# ----------------------------------------------------------------------    
-# Save all training output
-# ----------------------------------------------------------------------
+# --------------------------
+# Save training outputs
+# --------------------------
 # export dictionary
 export_data = {
     'som': som,
@@ -542,9 +542,9 @@ for path in result_dirs:
 
 print("..... \n.... \n... \n.. \n. \n \nTraining complete!")        
         
-# ----------------------------------------------------------------------
+# ---------------------
 # Quantization error training visualization
-# ----------------------------------------------------------------------
+# ---------------------
 
 def plot_training_progress(errors):
     """plot quantization error over training iterations"""
